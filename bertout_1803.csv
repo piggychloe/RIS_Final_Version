@@ -1,0 +1,1548 @@
+author_id,created_at,text,score,bert
+2818811101,2018-03-01T22:41:05.000Z,.@KnockriCo increasesandand reduces bias inwith,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.6398335099220276}]"
+21214074,2018-03-01T22:14:05.000Z,.@KnockriCo increasesandand reduces bias inwith,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.6398335099220276}]"
+2356982959,2018-03-01T22:07:38.000Z,Facebook expands notifications and use of,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.996364176273346}]"
+518238327,2018-03-01T22:05:36.000Z,Facebook expands notifications and use of,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.996364176273346}]"
+98715369,2018-03-01T22:02:21.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+2518363275,2018-03-01T20:35:09.000Z,Not comfortable with it? Go to Settings &gt; Face Recognition to turn it off.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996125102043152}]"
+21112077,2018-03-01T18:46:51.000Z,"Did you think filters were for your entertainment? 🤡🙄👁
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9975988268852234}]"
+607865770,2018-03-01T18:28:00.000Z,"Even thoughallows China to fight crime and thus contributes to public safety it comes with a long list of limitations. 
+Link - 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9965410828590393}]"
+2651403787,2018-03-01T18:24:07.000Z,“This is the right time to be addressing how these A.I. systems work and where they fail — to make them socially accountable” - Important questions about ethics of&amp; . ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9994329810142517}]"
+98715369,2018-03-01T18:24:00.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+1114845475,2018-03-01T18:08:27.000Z,GSMA wraps up hugely successful Mobile World Congress 2018,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9993882179260254}]"
+297397741,2018-03-01T17:45:07.000Z,"Cybersecurity startupraises $6 million in seed  to expand engineering and product development efforts
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5177609920501709}]"
+19123904,2018-03-01T17:15:21.000Z,"Facebook'ssystem was found to outperform similar systems used by the FBI. Where Facebook has a 98% accuracy rating in identifying faces the FBI had a success rate of 85%.
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.929660439491272}]"
+882971271142789121,2018-03-01T17:15:08.000Z,Calling allstartups! Apply before March 31 to and get the chance to pitch duringin front of experts &amp; investors,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.97432941198349}]"
+390288192,2018-03-01T17:04:06.000Z,If you're interested in surveillance technology and rights read our thread on today's House of Lords debate onin security and policing: ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.624880313873291}]"
+428552137,2018-03-01T16:59:16.000Z,Guysis relatively new technology that's being used in social media on streets in stores and all kinds of public places. You can control its use on @facebook which is what I'd encourage you to do until we have rules for how your image is used/shared. ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7570376992225647}]"
+834844187325513734,2018-03-01T16:59:15.000Z,"Biometric Authentication Isn’t Limited to Fingerprints
+ @imageonix_us 
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9571555852890015}]"
+76004287,2018-03-01T16:55:02.000Z,"You can read Big Brother Watch's briefing for today's House of Lords debate onin policing and security here:
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.5932310223579407}]"
+967053264041775105,2018-03-01T16:44:39.000Z,Theis cataloging people usingsoftware.The implications forare real and terrifying. ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9452134966850281}]"
+76004287,2018-03-01T16:00:46.000Z,"If it is a 'pilot' why has South Wales Police used automatedcountless times and scanned millions of people in the past year and even used it to send people to jail? 
+
+Seems like quite an extensive 'pilot' to us.",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9895897507667542}]"
+76004287,2018-03-01T15:51:14.000Z,"""Gov is exploring the options for expanding (i.e. putting in place) the oversight ofand seeking to establish an oversight board "" @SusanBaroness 
+
+We urge caution - there is no legal basis for AFR so oversight merely provides a reassuring gloss.",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.983393132686615}]"
+76004287,2018-03-01T15:39:03.000Z,"""Automatedis a rapidly evolving technology with huge potential. (...) We do believe that more can be done to improve governance around AFR &amp; we are discussing options for doing this with Commissioners and the police"". @SusanBaroness",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9971116781234741}]"
+2159851994,2018-03-01T15:37:47.000Z,"@bbw1984 @brianpaddick .
+These are very weak points.
+So if they get the algorithm rightwill not be so bad?
+That’s how this sounds like.
+I’d disagree slightlyit most ppl in the UK probably won’t be bothered just like with - nobody cares.",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9972600936889648}]"
+76004287,2018-03-01T15:32:54.000Z,"@SusanBaroness for the Government: ""We are committed to producing a framework to ensure organisations can innovate in their use and deployment of biometric technologies such as""",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9686141014099121}]"
+76004287,2018-03-01T15:19:55.000Z,Lord Paddick points out how worrying ex-MI5 Lord Evans' references to using images pulled from the internet foris. Imagine how this could be used in a protest scenario he says @brianpaddick,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9965227842330933}]"
+76004287,2018-03-01T15:17:29.000Z,"Scanning crowds for 'persons of interest' using automatedis ""an issue of questionable ethics"" says Lord Patel of @LordsSTComand references its use at Notting Hill Carnival and the Six Nations",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9942060112953186}]"
+76004287,2018-03-01T15:14:24.000Z,"""The suggestion that someone must have to actually apply to have their images deleted (from the Police National Database) cannot be satisfactory"" - Lord Patel of @LordsSTCom on ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9995286464691162}]"
+2587405345,2018-03-01T15:06:18.000Z,"If you're concerned about 's ability to engage in facial recognition here's how to disable it.
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.969647228717804}]"
+76004287,2018-03-01T15:00:59.000Z,"""This is a democratic issue about what it means to be a citizen - about what our rights and our responsibilities are."" Wise words from @BishopStAlbans on ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9976276755332947}]"
+76004287,2018-03-01T14:57:43.000Z,"""Very often in these debates we trade off fear that 'we've got terrorists coming we've got to do something'. If we take that line we'd have everybody permanently tagged - none of us want that."" 👏 - @BishopStAlbans on ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.995637834072113}]"
+76004287,2018-03-01T14:53:11.000Z,"The Bishop @BishopStAlbans says the Govnt must allow more time to consider this ""very important issue which touches on fundamental human freedoms human rights and a whole range of issues about the sort of society we want to be"" ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9852359294891357}]"
+76004287,2018-03-01T14:51:24.000Z,"The Bishop of St Albans @BishopStAlbans says he's ""struck by the fact that hardly anyone I spoke to realised what was going on; some were horrified; some were puzzled; and every one of them had questions and worries""
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9975070357322693}]"
+76004287,2018-03-01T14:46:56.000Z,"Ex-MI5 Lord Evans finishes he hopesdoesn't ""become a bonanza for lawyers"". Why would he say that...? Because of its questionable legal basis perhaps? 
+
+Our lawyers will enjoy that. Thanks Jon. 👏",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9749968647956848}]"
+76004287,2018-03-01T14:44:46.000Z,"You won't be surprised that Lord Evans finishes by saying ""We should not smother innovation"" (just rights..?); there should be no ""disincentive"" to use; and that of hopes the Home Office ""encourages the use oftechnology."" 
+
+Thanks for your contribution Jon 👎",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9915204644203186}]"
+76004287,2018-03-01T14:40:30.000Z,"""We are moving from promise to reality. Given the pressure on police budgetsoffers a real opportunity."" 
+
+- Lord Evans ex-MI5 who also says shopkeepers and entertainment providers (?!) should be able to use ...",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9866460561752319}]"
+90908568,2018-03-01T14:34:53.000Z,".@Facebook is to reintroducefor its European users in the coming months on an opt-in basis more than 5 years after it withdrew the technology amid pressure from privacy watchdogs &amp; campaigners. 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9964898228645325}]"
+76004287,2018-03-01T14:26:36.000Z,"Lord Evans former head of MI5: ""Criticisms we see from Big Brother Watch thatdoesn't work may or may not be true today. I am confident that they will not be true inthe next few years."" Says you dont even need police photos - can use photos from internet..",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.5429977774620056}]"
+76004287,2018-03-01T14:22:31.000Z,"Lord Jonathan Evans head of MI5 2007-13 makes a rare appearance. Declares an interest as an Advisor to 'Facewatch Ltd'... 
+
+""We make a mistake if we emphasise the risks ofgiven that it provides so many opportunities..."" 🤨",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6897614002227783}]"
+76004287,2018-03-01T14:16:26.000Z,"""Many people on the () database will have no idea - they may have been to a pop concert a memorial ceremony."" - @Paulscriven",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9926343560218811}]"
+76004287,2018-03-01T14:11:26.000Z,"""We're on the road to another court case. And my guess is the Government will probably lose"" - @Paulscriven live debate",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9987027645111084}]"
+76004287,2018-03-01T14:09:37.000Z,"""There is no legislation. There is no codified regulation. There is no independent oversight of . We have a 'make it up as you go along' approach - 'do as you want as long as you don't get caught' ""
+
+- Lord Scriven @Paulscriven live debate in @UKHouseofLords",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.8944969177246094}]"
+76004287,2018-03-01T14:00:40.000Z,"Now Lord Wasserman (Con) casually suggests we adopt a nationwide public/privatenetwork(!):
+
+""A task to be tackled urgently is to improve the quality of the main source for- the millions of private CCTV cameras all over this country"".",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6673347353935242}]"
+76004287,2018-03-01T13:47:57.000Z,"""Whistleblowers like @Snowden are being persecuted but we should be offering them political asylum for their heroism and exposing these nefarious and illegal schemes.""
+
+- @GreenJennyJones live indebate in @UKHouseofLords",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9906892776489258}]"
+76004287,2018-03-01T13:44:38.000Z,"(...) in which millions of innocent people were spied on through their webcams to experiment with. Parliament has since passed laws which make bulk interception lawful - we are moving towards more rather than less of this mass surveillance"" - @GreenJennyJones",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9873586297035217}]"
+76004287,2018-03-01T13:42:40.000Z,"""I extend my respect &amp; gratitude to NSA whistleblower Edward @Snowden a true hero of our time. 
+
+Among Snowden's revelations was a GCHQ program called Optic Nerve (...) - @GreenJennyJones in @UKHouseofLords👏",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9905436635017395}]"
+76004287,2018-03-01T13:37:44.000Z,"""My pictures will be on the database along with hundreds of others who were arrested at peaceful perfectly lawful protests.
+
+""No one chooses to have their photograph taken by the police"" - @GreenJennyJones
+
+ live debate @UKHouseofLords",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9946262240409851}]"
+76004287,2018-03-01T13:30:17.000Z,"""I'm very concerned that this technology is being used with a database full of illegal images of innocent people - and I include myself in that number"" - @GreenJennyJones 👏👏👏
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9948837161064148}]"
+76004287,2018-03-01T13:28:27.000Z,"""The Govnt can't stand idly by while allowing this intrusion into individuals' rights and identities (...) 
+
+The Govnt is letting the police get on with automatedas an 'operational matter'. This is clearly not just an 'operational matter'"" - @GreenJennyJones",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9870998859405518}]"
+76004287,2018-03-01T13:26:20.000Z,"""There are big concerns about equality issues arising fromparticularly the risk of misidentifying people of colour who are already disproportionately affected by policing tactics."" 
+
+- @GreenJennyJonesin @UKHouseofLords",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9632275104522705}]"
+2664259671,2018-03-01T13:23:23.000Z,Just discovered mydoes not work while yawning😂😂😂,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9994743466377258}]"
+76004287,2018-03-01T13:22:10.000Z,"""I call on the Govnt to do two things. Firstly to place an immediate ban on police forces using automatedwith surveillance cameras. 
+
+Secondly to remove the thousands of images of unconvicted individuals from the custody image database"" - @GreenJennyJones 👏",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9983171224594116}]"
+76004287,2018-03-01T13:18:28.000Z,"""The limited trials that we know about show that automatedcan be completely ineffective &amp; potentially discriminatory.
+
+""The truth is we're being watched all the time. CCTV is beginning to recognise &amp; identify us""- @GreenJennyJones 
+
+ in @UKHouseofLords",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9623673558235168}]"
+76004287,2018-03-01T13:14:41.000Z," live debate: ""What we're faced with currently is an unregulated and frankly terrifying mess which uses data illegally and disproportionately interferes with our fundamental human rights.
+
+""There's no law no policy and no oversight"" - @GreenJennyJones",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9992781281471252}]"
+76004287,2018-03-01T13:10:48.000Z,"""The use of automated facial recognition technology represents a turning point in our civil liberties and human rights here in the UK. It has barely had any acknowledgement anywhere that this could be a problem"" - @GreenJennyJones
+
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8968459367752075}]"
+348974190,2018-03-01T13:09:11.000Z, debates use oftechnology in security and policing. Watch live ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9880117177963257}]"
+76004287,2018-03-01T13:08:00.000Z,"A debate on facial recognition starting NOW in the @UKHouseofLords - @GreenJennyJones asks about the Government's use of facial recognition in the use of policing and security:
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9818410277366638}]"
+278669412,2018-03-01T11:44:03.000Z,"The Northern District of California has ruled thatusers have standing to pursue a class action challenging Facebook's use ofsoftware. 
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9273877739906311}]"
+297397741,2018-03-01T10:40:01.000Z,"Leveraging Security to Enable Your Business
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9930859804153442}]"
+44663631,2018-03-01T09:12:48.000Z,Face redaction startup Suspect Technologies plans to entermarket | BiometricUpdate,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9958749413490295}]"
+17828634,2018-03-01T07:04:44.000Z, This post argues that opting out of Facebook'sscheme may be a bad idea. Read why. ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996786117553711}]"
+919997827136106502,2018-03-01T04:16:10.000Z," is enabling modern-day slavery. It's a worrying trend into use technology against the will of people and invading their 
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.6775998473167419}]"
+27249178,2018-03-01T03:05:11.000Z,Introducing Chamoji for the Apple iPhone X - Be The Furry of Your Dreams,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9931138157844543}]"
+3041177757,2018-03-02T23:24:00.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+1331494998,2018-03-02T21:32:31.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+1465601515,2018-03-02T21:14:36.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+3988218255,2018-03-02T21:10:08.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+163587429,2018-03-02T20:56:25.000Z,With tight security often comes long lines but not for those usingat . @cnntech @PwC_LLP,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9865261912345886}]"
+1071649957,2018-03-02T20:54:25.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+221129243,2018-03-02T20:46:13.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+18021433,2018-03-02T20:36:48.000Z,CNN featuring PwC at Mobile World Congress: With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9789838194847107}]"
+737476122863120384,2018-03-02T20:34:16.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+77318624,2018-03-02T20:22:12.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+27079486,2018-03-02T20:10:43.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+3250995991,2018-03-02T18:10:00.000Z,"Did you know Facebook Storm Troopers hasactivated for you?
+Here’s how to turn it off: go to “Settings &gt; Face Recognition then select yes or no at the question 
+Do you wantto be able to recognize you in photos &amp; videos? 
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.998134195804596}]"
+362204745,2018-03-02T17:37:00.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+37314896,2018-03-02T17:20:17.000Z,Facial Recognition solution by @visionbox is replacing boarding passes at @flyLAXairport. The Future is here your face as a boarding pass is now a reality! Know more:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9962182641029358}]"
+966364019828248576,2018-03-02T17:11:33.000Z,"@CNBCMakeIt Actually once 'the M mark' has been identifiedmost people with a trained eye can tell if you're a murderer by looking at your face.
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9911575317382812}]"
+198627390,2018-03-02T16:35:14.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+2305574708,2018-03-02T15:54:34.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+851807887508873216,2018-03-02T15:29:01.000Z,Sometimes facial recognition CAN be used for fun &amp; games. Exhibit A:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9789537787437439}]"
+1617884294,2018-03-02T15:11:12.000Z,With tight security often comes long lines but not for those usingwithat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9812089204788208}]"
+18591062,2018-03-02T14:33:19.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+905038710508584960,2018-03-02T14:27:22.000Z,It's the same everywhere; going throughsecurity check is an essential but a time-consuming pain in the... you-know-where. Miami’s airport came up withsolution and you might be happy about that! Great article! ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9983931183815002}]"
+2826740377,2018-03-02T13:43:45.000Z,Happy Friday to all myworking to perfect realtimeleveraging state of art(). We have some work to do... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.999868631362915}]"
+26478168,2018-03-02T12:01:58.000Z,No. 7One important piece in your Crime Gun Intelligence gathering.Doesandcontribute?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9844463467597961}]"
+76004287,2018-03-02T09:31:01.000Z,@WYP_IanWilliams Secondly when the Met last used*they told us* their dataset was *not* of people arrested or wanted for arrest but of innocent people monitored by FTAC i.e. people with mental health issues.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9970511198043823}]"
+2868226919,2018-03-02T08:54:40.000Z,Excellent thread on HoLdebate parallels with other govt policies with no legal basis,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9514560103416443}]"
+109242412,2018-03-02T08:50:46.000Z,"My Kabuki mask at @docomo booth at 
+Loved so much this mix of tradition and high technology 😍
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9926487803459167}]"
+16359233,2018-03-02T06:15:15.000Z,On Tuesday many Facebookers noticed an odd notification from the company in their news feeds.via @AntiMedia,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9918323755264282}]"
+773819080365187072,2018-03-03T22:25:09.000Z,Infusing mechatronicwithalgorithms help disabled/less privileged people with features such as hapticsrecognitionetc.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7245180010795593}]"
+1536562052,2018-03-03T22:13:19.000Z,"RT Ronald_vanLoon ""Better Security Techniques Leave Passwords In The Dust
+by dannybradbury Forbes DellTech |
+
+
+
+
+
+cc: ci… ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9986140727996826}]"
+555031989,2018-03-03T22:04:36.000Z,"Better Security Techniques Leave Passwords In The Dust
+by @dannybradbury @Forbes @DellTech |
+
+
+
+
+
+cc: @citylab @smartcitiesdive @smartcityexpo ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9981827735900879}]"
+948394560,2018-03-03T20:00:32.000Z,Don't like your likeness being tracked?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9960175156593323}]"
+297397741,2018-03-03T19:33:02.000Z,"Intelligence officials say U.S. ""under attack""at risk in 2018
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9958985447883606}]"
+297397741,2018-03-03T18:02:12.000Z,"US intelligence chief worries more aboutthan terrorism
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9978867173194885}]"
+30985855,2018-03-03T18:00:00.000Z,No. 7One important piece in your Crime Gun Intelligence gathering.Doandcontribute?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9812434315681458}]"
+20459789,2018-03-03T16:51:09.000Z,PwC_TMT: With tight security often comes long lines but not for those who usedat . cnntech PwC_Advisory,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9944297671318054}]"
+179646149,2018-03-03T15:12:15.000Z, has been around since the 1960s but recent advances inhave improved accuracy via GoldmanSachs. hashtags,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9249999523162842}]"
+4824596866,2018-03-03T15:10:30.000Z, has been around since the 1960s but recent advances inhave improved accuracy via GoldmanSachs. hashtags,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9249999523162842}]"
+2344530218,2018-03-03T15:02:05.000Z, has been around since the 1960s but recent advances inhave improved accuracy via @GoldmanSachs. hashtags,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9497580528259277}]"
+30985855,2018-03-03T15:00:00.000Z,Facial recognition and LPR technology help locate missing CA woman.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7994565367698669}]"
+3291733369,2018-03-03T14:51:24.000Z,Um yeah right 🙄,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9940133690834045}]"
+995147046,2018-03-03T14:39:09.000Z,One company that will really need to be on the ball withis . Interesting to read how part of their prep includes the testing of .,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9902358651161194}]"
+164722514,2018-03-03T14:19:12.000Z, is poised to seep deeper into our daily lives. With tight security often comes long lines but not for those usingat . @cnntech @Mexiamobile,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9098764061927795}]"
+127284241,2018-03-03T14:09:52.000Z,"@FrameGames @getongab Fight back tyranny
+
+People have been preemptively detained and sent to political re-education camps usingandcameras
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9911802411079407}]"
+758467821575757824,2018-03-03T13:20:54.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+384832870,2018-03-03T13:05:04.000Z,"Howcould help save billions of dollars lost incrimes 
+
+ 
+
+@shirastweet @TriciaKicksSaaS @cybersecboardrm @CyberIntelFeed @missdkingsbury @CybersecuritySF @sfouille @reach2ratan @GaryDower @TechNative @IIoT_World ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.994231641292572}]"
+518893575,2018-03-03T12:00:43.000Z,"@thehill Either way Western American orof China is no excuse.
+
+Going to China? Better understand PRCfirst: 
+
+🔴",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9988813996315002}]"
+2242941595,2018-03-03T11:39:39.000Z,Interesting to hearbased oncan be tricked by showing a photo of the subject! What next?to detect eye blinks maybe?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9949994087219238}]"
+721590650563461120,2018-03-03T11:00:18.000Z,“Facial recognition is a perfect complement to your existing surveillance system enhancing security and/or customer experience in real time.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9989996552467346}]"
+947522489818562561,2018-03-03T08:04:23.000Z,"RT Ronald_vanLoon: Understand these 5 basic concepts to sound like aexpert 
+by TDataScience aaronedell |
+
+
+
+
+
+cc: randal_olson am… ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9512147903442383}]"
+230403822,2018-03-03T08:00:57.000Z,"RT:Ronald_vanLoon: RT Ronald_vanLoon: Understand these 5 basic concepts to sound like aexpert 
+by TDataScience aaronedell |
+
+
+
+
+
+… ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9357003569602966}]"
+3312956960,2018-03-03T07:09:07.000Z,is using&amp;to optimise soldier performance;such asto shorten waiting times at bases and -enabledare improving NS experience,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.583046019077301}]"
+756815930,2018-03-03T05:55:34.000Z,"Howcould help save billions of dollars lost incrimes 
+
+
+ 
+cc @MikeQuindazzi @evankirstel
+@TheMisterFavor @kuriharan @WFSULLIVAN3 @leimer @helene_wpli @psb_dc
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9926738142967224}]"
+343861732,2018-03-03T04:18:31.000Z,GlobalMarket is estimated to reach $15.4 billion by 2024; growing at a CAGR of 21.4% from 2016 to 2024. This is awhich captures image of an individual and then uses it to identify by applying facial analytics.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5507625341415405}]"
+897872428679839744,2018-03-03T03:05:01.000Z,Deep Learning Technology to ID Fake Photos,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9967330694198608}]"
+1536562052,2018-03-03T02:48:17.000Z,"RT Ronald_vanLoon ""RT Ronald_vanLoon: Understand these 5 basic concepts to sound like aexpert 
+by TDataScience aaronedell |
+
+
+
+
+
+… ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9485298991203308}]"
+21173013,2018-03-03T02:20:03.000Z," Bias: When Algorithms Go Bad 
+@EMorphy @cmswire @techreview 
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996364116668701}]"
+175264313,2018-03-04T22:15:46.000Z,No Thank You oh and No Thank you! Facebook asks if you want even more facial recognition so on the off chance they missed a picture of you uploaded somewhere. Right now it is opt-in. How long will that stay that way?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9992080330848694}]"
+2455250197,2018-03-04T21:12:09.000Z,“How AI Helps Recruiters Track Jobseekers’ Emotions” by The Financial Times,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9468466639518738}]"
+4618707617,2018-03-04T20:42:55.000Z,When your sister is a🤣🤣.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8557518720626831}]"
+303263492,2018-03-04T19:25:01.000Z,What if your favorite shopping app gets access to your facial recognition information?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9987523555755615}]"
+1784151,2018-03-04T18:45:11.000Z,If a marketer can get you to cry he can get you to buy. Emotion-detectingwill transformallowing a new level of personalisation.,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9783187508583069}]"
+297397741,2018-03-04T17:47:01.000Z,"Attorneys Eye Cybersecurity Safeguards For Litigation
+@ABATECHSHOW 
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6679068803787231}]"
+312693117,2018-03-04T16:45:08.000Z,"""white facial mask worked better' why algorithms are not colour blind ;Researcherfound thatrecognised her face better when she wore a white mask ;
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9973739385604858}]"
+312693117,2018-03-04T16:40:12.000Z," Researcher :Has a Race Problem and We Need to Fix It ;uncoversandbias intechnology accuracy and preferential behaviors
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9902742505073547}]"
+1460288238,2018-03-04T15:34:53.000Z,One of the issues with fb using facial recognition software is that a lot of fb members upload photos and videos with other people in them. What if those people don't want their faces scanned and recorded by fb?to facebook .,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9976412057876587}]"
+16025349,2018-03-04T15:05:36.000Z,There's a lot of panic floating around about @facebook using facial recognition and it seems everyone is telling you to avoid it. Here's why I think you should you should turn it on not off.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9994785189628601}]"
+2305574708,2018-03-04T14:43:42.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+893786970933129216,2018-03-04T09:40:05.000Z,We work alongside the best biometric systems developers in the world to ensure that we can offer a complete integratedsolution. Read about our work with Aurora,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9998100399971008}]"
+1132795518,2018-03-04T08:40:40.000Z,China's modern surveillance state is more advanced than anything a science fiction writer could dream up@WSJ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9988588094711304}]"
+4265079854,2018-03-04T08:28:22.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+4265079854,2018-03-04T08:18:21.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+31519739,2018-03-04T07:29:40.000Z,And it begins… Got this post on my Facebook feed. I wonder how tempting this data set will be for motivated actors? I hope Facebook bring their security A game. I said no thanks 😉,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9932792782783508}]"
+518893575,2018-03-04T01:03:56.000Z,"@thehill Sure...IF:
+
+All this Americanabout Chinaetc. continues.Going to China? Better understand PRCfirst
+
+🔴",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9891080856323242}]"
+77318624,2018-03-05T23:01:32.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+921609360,2018-03-05T21:10:06.000Z,New low light camera tech will improve AR apps facial recognition in smartphonesvia @techrepublic,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9539096355438232}]"
+15785718,2018-03-05T20:10:31.000Z, could be a threat to the smartphone – NEC@telecoms,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9990319013595581}]"
+930666026,2018-03-05T19:45:04.000Z,Create adevice for your cat made from a small camera and arunning motion detection softwarevia @motherboard,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9961185455322266}]"
+77318624,2018-03-05T19:17:18.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+969000149400760321,2018-03-05T18:34:31.000Z,SFU is launching a new Professional Master's Program inthis fall! Applications are open until March 30th. For more info and to apply please visit:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9005164504051208}]"
+17413602,2018-03-05T18:15:04.000Z,updates include a preview of Microsoft CustomService improvements toand more,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8672264814376831}]"
+928395814208180224,2018-03-05T16:58:34.000Z,"""In return patrol the area meet with business owners and gain the ability — though not the obligation — to monitor the live video stream complete withtechnology 24 hrs a day seven days a week.""
+Effectively this ignores the probable cause threshold",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9873286485671997}]"
+2425836948,2018-03-05T16:39:07.000Z,"There is discussion out there ondeciding your sexual preferences based on your passive behavior. 'Actual' sexual preference scanning 
+
+(some countries: anything but heterosexual is illegal) 
+*this research is ongoing.. ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9578450918197632}]"
+2425836948,2018-03-05T16:29:46.000Z,"Just a reminder of the term:
+ when artificial intelligence decides your 'race' tags your identity and limits travel based on that racial analysis. 
+(AI Genetic research's ugly stepchild...)
+and",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.997529923915863}]"
+583090642,2018-03-05T16:24:39.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+2968815778,2018-03-05T16:10:15.000Z,Homejust the initial benefit of Amazon's acquisition of ?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9944737553596497}]"
+16025349,2018-03-05T16:09:54.000Z,There's a lot of panic floating around about @facebook using facial recognition and it seems everyone is telling you to avoid it. Here's why I think you should turn it on not off.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9994025230407715}]"
+455040503,2018-03-05T16:05:06.000Z,Facial recognition advances now enable machines to match faces without good lighting and a full shot. A side shot or moving image may be enough for artificial intelligence to make a face match. This could phase out ATM cards car keys even house keys,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9995741248130798}]"
+921466114936311808,2018-03-05T15:53:07.000Z,Improved license plate detection and recognition arriving in version 7.4.6! Releasing 12:00AM 3/7 EST. Also improved detection performance and new controls for advanced users.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9746164083480835}]"
+963580473871015938,2018-03-05T15:26:18.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+48950317,2018-03-05T15:21:59.000Z, isis often denied by default. Assume you are being tracked and watched until you know you are not. Or browse naked/in ridiculous disguises ;),NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9978545308113098}]"
+344871914,2018-03-05T09:10:09.000Z,still fails onand cannot be used to authenticate electronic payments or access banking apps. ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9997158646583557}]"
+2845338172,2018-03-05T07:59:14.000Z,"Galaxy S9 Intelligent Scan favors unlocking ease over security
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9898361563682556}]"
+995147046,2018-03-05T07:40:13.000Z,One company that will really need to be on the ball withis . Interesting to read how part of their prep includes the testing of .,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9902358651161194}]"
+721590650563461120,2018-03-05T05:49:32.000Z,"You need only a well managed and well configured security system for which we are here to help you.
+ Read more – Tablix 
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9933308959007263}]"
+2356982959,2018-03-06T23:17:04.000Z,New imaging software from Israeli university could improve smartphone,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9653789401054382}]"
+518238327,2018-03-06T23:15:13.000Z,New imaging software from Israeli university could improve smartphone,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9653789401054382}]"
+851807887508873216,2018-03-06T23:09:01.000Z,Applications for facial recognition increase as the technology matures:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9973504543304443}]"
+2582922301,2018-03-06T22:36:00.000Z,"Apple Needs an Entirely New iPhone Not Just a New Version ! with slowed program functionality and poor battery Life !
+#",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9997714161872864}]"
+77318624,2018-03-06T22:01:17.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+829913452449665024,2018-03-06T21:10:07.000Z, a leading Chinese startup specialised inresearch and development has established an alliance with Massachusetts Institute of Technologyto promote the further application of the technology widely utilised in... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9994051456451416}]"
+1072508497,2018-03-06T21:05:25.000Z,"Exercising choice is ""even more important because the inertia of modernis to get you to disclose more and more and build an environment that keeps facilitating that"":",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9931859970092773}]"
+1072508497,2018-03-06T21:03:29.000Z," ""failed again to get out of a lawsuit alleging its photo scanningflouts users’rights"":",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.999219536781311}]"
+1331494998,2018-03-06T21:03:15.000Z,WOW! Check out @PwC attaking conferences to the next level withentry.... usingto make our lives better. Thanks @drsapin for sharing ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9947144389152527}]"
+280630853,2018-03-06T20:54:02.000Z,SFU is launching a new Professional Master’s Program in Visual Computing – the first of its kind in Canada! Classes begin Fall 2018. Apply by March 30:@visual_SFU,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9925118684768677}]"
+1662613178,2018-03-06T20:47:38.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+27079486,2018-03-06T20:47:11.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+1662613178,2018-03-06T20:46:18.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+1662613178,2018-03-06T20:45:33.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+750450888268021764,2018-03-06T20:08:17.000Z,Take a 👀 at this fantastic video from @CollegeofPolice which gives an insight into how establishedwill work &amp; it’s closer than you thinkvia @youtube,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9993200302124023}]"
+329972301,2018-03-06T19:38:49.000Z,""" is being integrated into many commonly used devices but these technologies are far from perfect."" Excited to see more research on this at@MIT @Stanford 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9952589869499207}]"
+1331494998,2018-03-06T18:49:14.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+818422988915744768,2018-03-06T18:07:32.000Z,Something myself and Allevate have discussed last year. So it's good it is being raised. There is a place for this technology where it can be used effectively.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9998331069946289}]"
+780550675839094784,2018-03-06T17:21:37.000Z,The Growing Importance ofinfor Retail.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9910908937454224}]"
+15785718,2018-03-06T17:11:49.000Z,"Facing the data - an in depth onat sports venues (free trial subscription req'd)
+ by @sbjsbd ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9010533094406128}]"
+17393008,2018-03-06T16:38:46.000Z,via @MikeQuindazzi: Do you see what I see?harnesses brain waves helps reconstruct mental images. @Vilynx @UTSC @DigitalTrends hashtagslink,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8963607549667358}]"
+225302275,2018-03-06T16:33:34.000Z,"im not fond of this wave of """" because once that data is stored you now have a very important piece in being able to execute printing a mask that looks like me exactly. 
+
+SOME TWISTED MOFO IS WALK AROUND WITH AN ANTHONY MASK ON AND SLANDER MY REPUTATION.",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.99339759349823}]"
+2305574708,2018-03-06T16:24:54.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+3378714135,2018-03-06T16:24:10.000Z,Voice and Facial Recognition Could HelpSurpass Human in Emotional Intelligence,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8941770195960999}]"
+722610282888105985,2018-03-06T16:08:58.000Z,@NY1 If @Facebook &amp; @Google usewhy can't @NYPDTransit at turnstyles like casinos. I bet @errollouis has better photographic ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9892320036888123}]"
+948943461323067392,2018-03-06T16:02:13.000Z,Nvidia Making Facial Recognition AI for Smart City Surveillance,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9216666221618652}]"
+21894918,2018-03-06T14:52:26.000Z,Ask me about our facial recognition tech!. Kiosk Demand on the Rise in Quick Service,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9697027802467346}]"
+15753937,2018-03-06T13:44:13.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+568156566,2018-03-06T13:30:26.000Z,"""the Internet of Things is undergoing a revolution and for the first time becoming truly mainstream.""
+
+@JWTIntelligence",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.991496741771698}]"
+919997827136106502,2018-03-06T13:19:47.000Z," are increasingly being used to coerce influence control subvert expose and collect personal information() on the pretext of modernization. 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9740123152732849}]"
+30985855,2018-03-06T13:03:10.000Z,Vigilant Solutions Roger Anthony Rodriguez cuts through the myths and shares the reality of howcan be an incredibly valuable tool for law enforcement.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9980431795120239}]"
+26478168,2018-03-06T12:29:27.000Z,Vigilant Solutions Roger Anthony Rodriguez cuts through the myths and shares the reality of howcan be an incredibly valuable tool for law enforcement.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9980431795120239}]"
+1978816994,2018-03-06T12:22:34.000Z,Interestingof the top 30 technologies going towards the future ofI'm especially interested inas it can be measured withand other,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9654322266578674}]"
+3094109274,2018-03-06T11:00:00.000Z,No. 7One important piece in your Crime Gun Intelligence gathering.Doesandcontribute?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9844463467597961}]"
+967723211952705536,2018-03-06T10:49:25.000Z,When technology is going forward Security has to fly forward too!is our future! DON'T WASTE TIME UK SECURITY IS FIRST@CrispSurv @surcamcom USE FACIAL RECOGNITION! MAKE IT LEGAL! ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.972812831401825}]"
+967723211952705536,2018-03-06T10:11:33.000Z,"@surcamcom Real-Time Alerts when usinglike @Facewatch technology.By matching faces against ""knowing offenders"" within seconds of them entering public areas and sends an instant alert for verification and action to the police to locate them! ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9706361889839172}]"
+344825939,2018-03-06T10:04:00.000Z,are usinglinked to a central criminal records database to identify suspects,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9948392510414124}]"
+967723211952705536,2018-03-06T09:50:39.000Z,"@surcamcom The Gov Should useinstalled into public areas so after ""committing a crime"" law enforcement should use thedetectors to search into all public areas like buses undergrounds etc. so they will locate them quicker!",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9949719905853271}]"
+3317217437,2018-03-06T09:47:54.000Z,All set up for the @kingsltdday in Leeds and ready to showcase oursystem Cleveraccess and CleverID. Great to catch up with @AxisIPvideo and @DigitalBarriers ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9991457462310791}]"
+884022229,2018-03-06T09:43:41.000Z,Do you see what I see?harnesses brain waves helps reconstruct mental images. @Vilynx @UTSC @DigitalTrends hashtagslinkvia @MikeQuindazzi ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8194080591201782}]"
+2826536509,2018-03-06T09:13:26.000Z,Police use ofcomes under fire from peers - @GreenJennyJones calls for immediate ban ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9988642930984497}]"
+179646149,2018-03-06T09:08:20.000Z,Do you see what I see?harnesses brain waves helps reconstruct mental images. Vilynx UTSC DigitalTrends hashtagslink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7258653044700623}]"
+4824596866,2018-03-06T09:02:15.000Z,Do you see what I see?harnesses brain waves helps reconstruct mental images. Vilynx UTSC DigitalTrends hashtagslink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7258653044700623}]"
+2344530218,2018-03-06T09:01:38.000Z,Do you see what I see?harnesses brain waves helps reconstruct mental images. @Vilynx @UTSC @DigitalTrends hashtagslink,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.7525375485420227}]"
+760009547037540353,2018-03-06T07:56:50.000Z,Guess what attracts such a cute girl? 10’’ Full-touch outdoor station supportingremovablemonitor user-friendlyor other new innovation? Find the answer at booth SS7302. ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9969679713249207}]"
+761552497823449089,2018-03-06T07:21:09.000Z,"Forget all yourwith !
+
+Read more @ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9974302649497986}]"
+787475384,2018-03-06T07:05:09.000Z,If anyone wants that article on how facial recognition software does significantly less well with darker-skinned female faces here it is:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9994572997093201}]"
+137580913,2018-03-06T06:19:40.000Z,Interesting use oftechnology on billboards... impressive! ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9998345375061035}]"
+966751699837874176,2018-03-07T22:51:59.000Z,"Why are we different? 🤔
+We keep your images for the next 10 years! (Maybe longer!) Order from all of yourat once to make great gifts! And we offerto help you find your pics. 😉
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7827494740486145}]"
+28041058,2018-03-07T22:09:03.000Z,New low light camera tech will improve AR apps facial recognition in smartphones@TechRepublic,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9632600545883179}]"
+26478168,2018-03-07T22:00:00.000Z,: Join us at our upcoming lunch and learn on 3/13 to learn more aboutand . Greg Skelly ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9933329224586487}]"
+3585807495,2018-03-07T21:15:01.000Z, VASCO adds facial recognition to apps platform reports revenue growth,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9882263541221619}]"
+179646149,2018-03-07T21:09:08.000Z,Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025. Tractica HashtagsLink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9894585609436035}]"
+4824596866,2018-03-07T21:02:25.000Z,Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025. Tractica HashtagsLink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9894585609436035}]"
+2344530218,2018-03-07T21:01:01.000Z,Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025. @Tractica HashtagsLink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9825506806373596}]"
+26808489,2018-03-07T19:01:19.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+211773370,2018-03-07T17:36:18.000Z,"Presented by @JosephSirosh @Microsoft’s VP oftalkedapplied to declassified papers &amp;to faces in the crowd during the assassination event. Just another day @. 
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9127804040908813}]"
+718714716789612544,2018-03-07T17:30:13.000Z, - End of a great show!! Designing out crime!! @CityPoliceFraud @GBGplc @idscan @ScanNetLtd,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6959315538406372}]"
+3332694892,2018-03-07T17:12:45.000Z,"Here Come the Fake Videos Too - @nytimes 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9994094371795654}]"
+965578765920124932,2018-03-07T16:44:35.000Z,Hi @FacialMatch. I Need You Help RegardingIssues. Can You Coordinate With @_PTLB And Do The Needful. Even Pointers Would Be Of Great Help.@P4LOIndia @AdvocateGeeta @Praveen_Dalal @MyDataIsMine @IndianPrivacy @AFPOHIndia @DigitalIndiaLaw ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9807437062263489}]"
+114256236,2018-03-07T16:00:03.000Z,@IdemiaGroup targets car sharing market withsolution,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9527187943458557}]"
+384832870,2018-03-07T15:25:12.000Z,"Yes you will soon be able to pay for the subway🚆🚅 with...your face😄. Seriously.~@2morrowknight
+
+
+
+
+
+@7wData @rossdawson @TechNative@debbiediscovers @AI__TECH @IMITAKCO @ArkangelScrap@schmarzo",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9365282654762268}]"
+14105807,2018-03-07T15:15:15.000Z,Facial recognition technology may be improving but not if you're darker skinned and especially if you're a female.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.951528012752533}]"
+2270712410,2018-03-07T14:31:33.000Z,Speaking at SeaTrade Global Conference panel on biometrics and how emerging tech is enhancing security and guest experience.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9881998300552368}]"
+197489164,2018-03-07T14:00:01.000Z,"Newsystem namedrelies on light patterns &amp; speed of light reflecting off the human face an improvement insystems via @BleepinComputer: 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9236853122711182}]"
+17393008,2018-03-07T11:33:03.000Z,via @MikeQuindazzi: Top 10 use cases for ! By 2025 market for++projected to reach $26.2 billion.Study,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6559062600135803}]"
+499645008,2018-03-07T10:55:11.000Z,Providing excellent expertise in@TouchByte take to stand 103 to talkat .Come and say hello @cornwallchamber ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9994669556617737}]"
+4876948522,2018-03-07T10:00:13.000Z,How Will Facial Recognition Tech Change the Future? Look at Its Problematic Past.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9985789060592651}]"
+177781178,2018-03-07T09:25:37.000Z,"Get your hand on the February/March 2018 edition of TTG Mice magazine to read about our latest tech solutions. Thanks to S.Puvaneswary for the amazing write up.
+
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9997219443321228}]"
+721590650563461120,2018-03-07T08:07:02.000Z,"How FACE RECOGNITION helps increase safety in stadiums.
+Herta Security | View: 
+@hertasecurity ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9351294636726379}]"
+29532263,2018-03-07T05:10:16.000Z,BTW I just noticed that @Windows Hello doesn't recognize my morning face 🤣🤣🤣🤣🤣 I don't know whether that is a good thing or a bad thing 🤔,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9995112419128418}]"
+922061571731410944,2018-03-07T05:00:02.000Z,: 200 milliseconds to recognize a threat,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.8110942840576172}]"
+179646149,2018-03-07T04:13:02.000Z,Top 10 use cases for ! By 2025 market for++projected to reach $26.2 billion.Study … ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8497949242591858}]"
+4824596866,2018-03-07T04:07:06.000Z,Top 10 use cases for ! By 2025 market for++projected to reach $26.2 billion.Study … ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8497949242591858}]"
+2344530218,2018-03-07T04:03:02.000Z,Top 10 use cases for ! By 2025 market for++projected to reach $26.2 billion.Study,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6325278878211975}]"
+919918497173516288,2018-03-08T23:59:51.000Z,Midas IT launches AI recruitment solution,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8488288521766663}]"
+2356982959,2018-03-08T23:22:08.000Z,YITU featurestechnology at Security &amp; Counter Terror Expo ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9579982161521912}]"
+518238327,2018-03-08T23:17:41.000Z,YITU featurestechnology at Security &amp; Counter Terror Expo ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9579982161521912}]"
+987600932,2018-03-08T22:25:02.000Z,"The City of Detroit is now hiring for a ""director of emerging technology"" role one of the ""most fun"" jobs in the city@DetroitCIO",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9988828301429749}]"
+65451099,2018-03-08T21:32:11.000Z,NEC showcases the latest in intelligent public transport solutions - ICX Association@NEC @NEC_Display,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9933571219444275}]"
+987600932,2018-03-08T20:15:03.000Z,The City of Detroit is rebounding and it needs a director of emerging technology to help rebuild@DetroitCIO,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7351126074790955}]"
+987600932,2018-03-08T18:05:22.000Z,One of the most interesting jobs in government just opened up in Detroit@DetroitCIO,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9834729433059692}]"
+2767159070,2018-03-08T18:00:01.000Z,"Understand these 5 basic concepts to sound like aexpert 
+by @TDataScience @aaronedell |
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9908220767974854}]"
+48616766,2018-03-08T17:30:26.000Z,One of the most promising use cases foris at airport security.tech could speed up lines and make happier passengers. @Neville_Gemalto will talk atabout how the tech works and when more airports will use biometrics. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9940481185913086}]"
+325643990,2018-03-08T16:00:46.000Z, trials in-storetechnology - Tests with Unilever’sbrand showed in-storecan increase how noticeable a product is three-fold as company bolsters measurement ofinvestment.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.991174042224884}]"
+241280374,2018-03-08T15:45:18.000Z,Does @facebook’s move towardsmake you nervous? Have no fear @gizmodo is here with what we know and don’t know about the update. ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9943840503692627}]"
+546313843,2018-03-08T14:18:33.000Z,What are Top 10 use cases for ? Revenues forprojected to grow from $3.2 to $89.8 billion by 2025 @MikeQuindazzi @TracticaLink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9947327375411987}]"
+26478168,2018-03-08T11:56:24.000Z,Vigilant Solutions Paige Burley on site and engaging withto help them do what they do; Save Lives!!!Greg Mills Kris Robinson Kyle Hoertsch David Rivera ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9986302852630615}]"
+15064713,2018-03-08T10:05:18.000Z,WOW! Check out @PwC attaking conferences to the next level withentry.... usingto make our lives better. Thanks @drsapin for sharing ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9947144389152527}]"
+238978829,2018-03-08T10:04:16.000Z,RT MikeQuindazzi: Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025. Tractica HashtagsLink…,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9873812198638916}]"
+90183578,2018-03-08T08:31:26.000Z,Thanks to Tim &amp; Ross @Oprema for visiting yesterday to talk advancedfeatures inc.👱🚘👾 &amp;📈 ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9923731684684753}]"
+17393008,2018-03-08T07:33:02.000Z,via @MikeQuindazzi: Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025. @Tractica HashtagsLink,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9827804565429688}]"
+103932087,2018-03-08T07:01:46.000Z,Did you get anotification about thefeatures? That’s because after years of using the it lawsuits have pressured FB into being more transparent about how it collects and employs this biometric data.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.998345136642456}]"
+376051531,2018-03-08T05:29:44.000Z,"Does yourlove delivering one of a kindthenthroughis an opportunity you should not miss!
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9979075193405151}]"
+264340308,2018-03-08T02:48:00.000Z,@MissyByte Missy -- please meet one of the most impressive entrepreneurs I've come across - @emily_kennedy_ who founded @marinus___.Using&amp; more to tackle .Already making a huge impact w/ law enforcement!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9995741248130798}]"
+987600932,2018-03-09T23:04:01.000Z,"The City of Detroit is now hiring for a ""director of emerging technology"" role one of the ""most fun"" jobs in the city@DetroitCIO",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9988828301429749}]"
+97526790,2018-03-09T22:18:11.000Z,Let's to discoverA project where management engineering IT design electronics bioengineering mix together to create something new🍀👍🏻@PoliHub @polimi ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6453604698181152}]"
+987600932,2018-03-09T20:54:01.000Z,The City of Detroit is rebounding and it needs a director of emerging technology to help rebuild@DetroitCIO,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7351126074790955}]"
+27079486,2018-03-09T20:06:52.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+89156917,2018-03-09T19:24:36.000Z,10 Inventions That Changed The World For The BETTER,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9989094734191895}]"
+987600932,2018-03-09T18:44:00.000Z,One of the most interesting jobs in government just opened up in Detroit@DetroitCIO,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9834729433059692}]"
+190777222,2018-03-09T16:00:45.000Z,Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025. @Tractica HashtagsLinkby,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9846002459526062}]"
+2866064621,2018-03-09T15:53:58.000Z,"Super recognisers are people with significantly better-than-average face recognition ability. It is the extreme opposite of prosop...
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9563722610473633}]"
+140905927,2018-03-09T15:49:37.000Z," users need to realize that they are being actively nudged toward the use of biometrics.
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9931156039237976}]"
+971683496795262976,2018-03-09T15:49:06.000Z,@Facebook has some major challenges ahead if it wants to comply with,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5859591960906982}]"
+1854553681,2018-03-09T15:01:00.000Z,Just In! There’s a new innovation inthat uses light rendering technology to spot faked imagesContact us for more information.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9974141120910645}]"
+4523843721,2018-03-09T14:42:36.000Z,Super presentation 👇 from @TweetIDPal atWell done guys 👏 ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.991157591342926}]"
+3730413434,2018-03-09T13:52:31.000Z,Not feeling ’sfeature? Here’s how to turn it off via @Mashable: ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9988372921943665}]"
+1196984797,2018-03-09T13:21:01.000Z,"What to know about biometric security: 
+
+/via @ChannelwebNL",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9560269713401794}]"
+2215558518,2018-03-09T12:14:16.000Z,Not long to go until we attend @scnewsfeed conference in Brighton. We provide a range ofservices manned and electronic to help keepworkers and customers safe.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.982883632183075}]"
+935431181935566848,2018-03-09T09:58:10.000Z,"Mobile platform AI emotional facial recognition tech developed by Korean Researchers KAIST 
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6589046120643616}]"
+876719274043232256,2018-03-09T09:14:14.000Z,"Left your wallet orat home? Do not fear China'spayment technology has recently been introduced! How long will it take until China turns into asociety?
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9963680505752563}]"
+1132795518,2018-03-09T08:20:16.000Z,British Airways expands its biometric boarding gate trials in the US@engadget,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9816962480545044}]"
+80271442,2018-03-09T08:01:01.000Z,"Top 10 use cases for ! Revenues forprojected to grow from $3.2 to $89.8 billion by 2025:
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8708003759384155}]"
+297397741,2018-03-09T05:10:00.000Z," Secures €4M in
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9945628046989441}]"
+57935380,2018-03-10T23:53:15.000Z,"Troubling Questions
+(sharpie on orange card stock / 2018)
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9978911280632019}]"
+3417837675,2018-03-10T19:49:52.000Z,PwC is beating the crowds atwith . Check out the @PwCAdvisory + @MexiaMobile demo!,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9923843741416931}]"
+3025674310,2018-03-10T09:07:54.000Z,This week was the first time we had ourPracticals - Using Software to create a digital image of a suspect as best we could. Challenging but good fun! @StaffsCJF_Dept ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9992697834968567}]"
+4265079854,2018-03-10T08:03:25.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+4265079854,2018-03-10T08:01:55.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+2586161544,2018-03-10T06:25:30.000Z,SFU is launching a new Professional Master’s Program in Visual Computing – the first of its kind in Canada! Classes begin Fall 2018. Apply by March 30 :@visual_SFU,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9925118684768677}]"
+786428792373858304,2018-03-10T06:17:53.000Z,Centralisation OfData Makes It An @_Orwellian Tool That Can Be Abused For Real Time Surveillance. If We AddTo This Equation 360% Profiling Is Inevitable Opines @Praveen_Dalal. @ScrapAadhaar @AdvocateGeeta @AadhaarLaw @AadhaarSecurity @FacialMatch ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9968898892402649}]"
+786428792373858304,2018-03-10T06:17:05.000Z,@FacialMatch @_Orwellian @Praveen_Dalal @advocategeeta @DisasterReliefs @ScrapAadhaar @afpohindia @_CEPHRC @AadhaarLies @_PTLB We Must Destroy The @_Biometric Stored By @_OrwellianAnd @ScrapAadhaar As Soon As Possible So That EvilAndCannot Be Started At All Opines @Praveen_Dalal. @DNAProfileLaw @FacialMatch @AadhaarLaw @_PTLB,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996223449707031}]"
+786428792373858304,2018-03-10T06:16:46.000Z,@FacialMatch @_Orwellian @Praveen_Dalal @advocategeeta @DisasterReliefs @ScrapAadhaar @afpohindia @_CEPHRC @AadhaarLies @_PTLB Surveillance Through Mobile Internet And NowHas Become Common In India. @ScrapAadhaar And Destroy The @_Biometric Of @_OrwellianNow Before You Become CompleteWarns @Praveen_Dalal.@AdvocateGeeta @MyDataIsMine @_CEPHRC @_PTLB,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9991989731788635}]"
+897783356670099456,2018-03-10T06:11:04.000Z,@FacialMatch @_Orwellian @Praveen_Dalal @advocategeeta @DisasterReliefs @ScrapAadhaar @afpohindia @_CEPHRC @AadhaarLies @_PTLBWould Soon Be Used By UIDAI ForPurposes And Very Soon This Digital Panopticon Would Do Surveillance Of Indians In Real Time. Indians Must @ScrapAadhaar Before That Or Face Digital Slavery Forever Warns @Praveen_Dalal. @MyDataIsMine @_Orwellian @_PTLB,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9976773858070374}]"
+242120323,2018-03-10T01:16:20.000Z,"@Biometrids provides the ultimate solution toverification problems. A platform that brings decentralized and anonymous id 
+to theby using facial recognition.",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.993800699710846}]"
+902102336520110080,2018-03-11T21:00:22.000Z,"Google Offers TensorFlow AI systems to the US Department of Defense
+
+
+
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.891685962677002}]"
+2923583848,2018-03-11T18:52:19.000Z,"Hm.
+@dulcesloan raises (link @ moment) an
+interesting -storyline:
+that sincedoesn't
+register .
+
+The Robots can't kill them
+(her &amp; @TrevorNoah @ least)
+.....cuz they can't SEE them!
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9945310950279236}]"
+3308586016,2018-03-11T17:48:01.000Z,Facial recognition crosses both security consumer applications - The on again off again love affair with biometrics in general and facial recognition in particular has been playing out for almost two decades.@SecInfoWatch,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.839915931224823}]"
+70814947,2018-03-11T17:21:27.000Z,"BBC News - Chinese police spot suspects with surveillance sunglasses 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.8989666104316711}]"
+222273736,2018-03-11T16:50:05.000Z,"If you have access to snow this is definitely worth a try...
+.
+.
+.
+.
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9973446726799011}]"
+3309110927,2018-03-11T16:00:18.000Z, VASCO adds facial recognition to apps platform reports revenue growth,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9882263541221619}]"
+555031989,2018-03-11T15:04:40.000Z,"Understand these 5 basic concepts to sound like aexpert 
+by @TDataScience @aaronedell |
+
+Read more at 
+
+
+
+cc: @randal_olson @amuellerml ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9953581690788269}]"
+893786970933129216,2018-03-11T11:45:06.000Z, when integrated with ourcan help to combat some of the potential disadvantages of otherverification systems,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9669909477233887}]"
+2153053644,2018-03-11T11:44:01.000Z,"Smile pretty for the subway -might simplify your commute
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.97799152135849}]"
+297397741,2018-03-11T09:40:01.000Z,"Only 14% of Businesses Have Basic Mobile Security in Place
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.981312096118927}]"
+297397741,2018-03-11T09:10:04.000Z,"Organizations are sacrificing mobile security to improve performance
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9985195994377136}]"
+297397741,2018-03-11T08:10:00.000Z,"Cyberthreats Are Only Growing. Here’s How Congress Can Improve Cybersecurity.
+ 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8101938962936401}]"
+2193128997,2018-03-11T08:05:59.000Z, andbets onin a big drive for total surveillance. Surveillanceare giving the government a sense that it can finally achieve the level of control over people's lives that it aspires to,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9337244033813477}]"
+297397741,2018-03-11T07:40:00.000Z,"An Approach 'Essential To Creating Robust Sustainable Cyber Security'
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9990725517272949}]"
+14462991,2018-03-11T07:02:31.000Z,Facebook’s facial recognition AI just identified me as my friend and fellow artist Anado McLauchlin the man on the left in this photo. Well at least they picked someone whose wardrobe I admire.…,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9963871240615845}]"
+721590650563461120,2018-03-11T04:59:11.000Z,"BioSurveillance NEXT is optimized for environments with large crowds in constant movements such as airports metro &amp; train stations shopping centers sports stadiums &amp; urban center.
+Read more: 
+ 
+@hertasecurity ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9889645576477051}]"
+3247437229,2018-03-11T02:39:28.000Z,Canandtell what emotions people are feeling?... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9432981610298157}]"
+987600932,2018-03-12T23:09:00.000Z,"The City of Detroit is now hiring for a ""director of emerging technology"" role one of the ""most fun"" jobs in the city@DetroitCIO",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9988828301429749}]"
+3096599790,2018-03-12T22:26:25.000Z,"From the Lynx Indoor to the Tend Secure app @securitybaron gives you a complete breakdown here: 
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9915162324905396}]"
+294229409,2018-03-12T22:03:13.000Z,"Seriously creepy&gt; Beijing police are usingglasses to identify car passengers and number plates 
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9869734644889832}]"
+846154032510988288,2018-03-12T21:35:03.000Z, 46 -andand the increase in capability for mapping faces across public and corporate spaces -,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9989990592002869}]"
+987600932,2018-03-12T20:59:06.000Z,The City of Detroit is rebounding and it needs a director of emerging technology to help rebuild@DetroitCIO,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7351126074790955}]"
+123836048,2018-03-12T20:46:46.000Z,"Facebook trials controversial facial recognition technology.
+
+ via @CBROnline.com",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9863753914833069}]"
+65451099,2018-03-12T20:20:08.000Z,NEC showcases the latest in intelligent public transport solutions - ICX Association@NEC @NEC_Display,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9933571219444275}]"
+2651138100,2018-03-12T20:00:32.000Z,"Idemia targets car sharing market with facial recognition solution@IdemiaGroup
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9341431260108948}]"
+26342055,2018-03-12T19:33:10.000Z,"I can't decide if this is... or just fucking lazy low fruit . 
+
+“We have taken thefilm which shows realstaff explaining the -making process while completelyand applied… ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9993706345558167}]"
+718804592973053952,2018-03-12T18:53:15.000Z,Beijing police are using facial-recognition glasses to identify car passengers and number platesvia @businessinsider,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9840313196182251}]"
+1331494998,2018-03-12T18:49:21.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+987600932,2018-03-12T18:49:11.000Z,One of the most interesting jobs in government just opened up in Detroit@DetroitCIO,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9834729433059692}]"
+364400733,2018-03-12T18:22:33.000Z,Thanks to Michelle and Nick from @NEC for visiting us today and showing us NeoFace... very cool!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9998176693916321}]"
+901164271446351873,2018-03-12T17:54:02.000Z,Don't miss our talk w facial recognition tech founder @BrianBrackeen of @LoveKairos coming next week! We'll discussindata and his dad's Iron Man-like story. Subscribe! ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.987824559211731}]"
+629084145,2018-03-12T17:41:13.000Z,China’s law enforcement expands use of facial recognition glasses,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9801849722862244}]"
+836272957,2018-03-12T16:59:08.000Z,Beijing police are using facial-recognition glasses to identify car passengers and number plates:via @businessinsider,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9824990034103394}]"
+1409836806,2018-03-12T16:17:53.000Z,"A Car that can detect your emotions?The end of Road Rage!? By using integrated biometrics...
+Makes an interesting read! Please follow the link below!
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9970631003379822}]"
+23076276,2018-03-12T15:18:33.000Z,@BrianBrackeen calls for more informed consent as well as more controls that can vary by context for the use of . ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9800530076026917}]"
+23076276,2018-03-12T15:16:43.000Z,3 things to accomplish withdevelopment: Incorporate code of ethics (privacy biases) the ability to unlearn transform images/data for one purpose &amp; not others.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9946720004081726}]"
+23076276,2018-03-12T15:12:10.000Z,We need to shift focus from success metrics like accuracy to imclude&amp;metrics too.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.972777783870697}]"
+23076276,2018-03-12T15:09:36.000Z,"Just because a system doesn't classify ""race"" explicitly (or any other bias) doesn't mean that the technology isn't biased (and the people or data behind it aren't).",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.869526207447052}]"
+23076276,2018-03-12T15:04:15.000Z,It's not the machine with the bias it's the people or data behind the machine involved in the training with the biases.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9952754974365234}]"
+23076276,2018-03-12T14:59:31.000Z,Face recognition has some bias at tech moment: the darkness of skin &amp; youthfulness of faces tend to impact the results the most.—Clare Garvie,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9368629455566406}]"
+23076276,2018-03-12T14:56:34.000Z,A truely heartwarming use case for : augmenting the impacts of Alzheimer's. It allows patients to be able to identity of family. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9997064471244812}]"
+23076276,2018-03-12T14:42:24.000Z,There's no legislation in any state regulating or calling for the audit of facial recognition databases yet over 50% of us are in facial databases already.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9930441975593567}]"
+880478753557794816,2018-03-12T14:41:00.000Z,Usingforis set to improve therein China - driven by a desire by central government to improvethrough theof citizens. See: ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9838106632232666}]"
+2632281735,2018-03-12T14:34:00.000Z,"Okay facial recognition software enthusiasts.
+Any suggestions thoughts statistics on this?
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9916400909423828}]"
+48616766,2018-03-12T13:01:08.000Z, technology is getting more powerful and accurate every day helping researchers and private-industry developers find new uses for thetech. @VOANews ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9958158135414124}]"
+4137140788,2018-03-12T12:34:01.000Z,Do you think you're good at recognizing faces?,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5751960873603821}]"
+3727045163,2018-03-12T12:20:07.000Z,@British_Airways have installedgates at Orland Miami and NY JFK ! It's amazing to see the speed of growth ofin global airports!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9998016953468323}]"
+2153053644,2018-03-12T12:03:02.000Z,"Would you feel safer if police force hadglasses?
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9953359961509705}]"
+453887347,2018-03-12T10:12:31.000Z,"🤳Don't miss the chance to visit @FacePhi team in Singapore during @Money2020 event. 
+
+✅ Stand E36. 
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9919369220733643}]"
+278669412,2018-03-12T09:33:33.000Z,"China is drastically increasing itstechnology and hopes to eventually be able to identify any citizen within three seconds.
+Xinjiang serves as a warning to the rest of the country about potentialmeasures to come. ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9537673592567444}]"
+297397741,2018-03-12T09:30:10.000Z,"New Cyber Security Style Guide helps bridge the communication gap
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9865418672561646}]"
+806009670343282688,2018-03-12T09:03:34.000Z,"RT Danish_0786: RT antoniopescape: Beijing police are usingglasses to identify car passengers and number plates
+
+
+
+evankirstel Ronald_vanLoon mclynd ipfconline1 KirkDBorne Kevin_Jackson SpirosMargaris schmarzo jimmarous jblefevre60 …",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9687089920043945}]"
+51938160,2018-03-12T08:55:25.000Z,"@kuriharan @mashable @rajat_shrimal @JulesRatcliffe @sebasincha @IIoT_World @Ronald_vanLoon @helene_wpli @WSWMUC @TheMisterFavor @sallyeaves @TerenceLeungSF ""Smile to Pay"" directly instead ofto withdraw cash
+Similar .. Your Face your money :-)
+
+
+cc @vivek_gkrishnan @sonalbisht @evankirstel @SStavrinoudakis @NicoLacour @FinMKTG @MHcommunicate @JennDark",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.930993378162384}]"
+806009670343282688,2018-03-12T08:38:14.000Z,"RT NIRAV_88: RT antoniopescape: Beijing police are usingglasses to identify car passengers and number plates
+
+
+
+evankirstel Ronald_vanLoon mclynd ipfconline1 KirkDBorne Kevin_Jackson SpirosMargaris schmarzo … ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9700384140014648}]"
+806009670343282688,2018-03-12T08:38:12.000Z,"RT antoniopescape: Beijing police are usingglasses to identify car passengers and number plates
+
+
+
+evankirstel Ronald_vanLoon mclynd ipfconline1 KirkDBorne Kevin_Jackson SpirosMargaris schmarzo jimmarous jblefevre60 arkangelscrap ch…",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9734126925468445}]"
+238978829,2018-03-12T08:38:10.000Z,"RT antoniopescape: Beijing police are usingglasses to identify car passengers and number plates
+
+
+
+evankirstel Ronald_vanLoon mclynd ipfconline1 KirkDBorne Kevin_Jackson SpirosMargaris schmarzo jimmarous jblefevre60 arkangelscrap ch…",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9734126925468445}]"
+476130077,2018-03-12T08:23:05.000Z,"Beijing police are usingglasses to identify car passengers and number plates
+
+
+
+@evankirstel @Ronald_vanLoon @mclynd @ipfconline1 @KirkDBorne @Kevin_Jackson @SpirosMargaris @schmarzo @jimmarous @jblefevre60 @arkangelscrap @chboursin",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9693396091461182}]"
+31160015,2018-03-12T08:00:06.000Z,Unilever is trialling in-storethat measures shopper's engagement with on-shelf displays.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9173166155815125}]"
+1298470638,2018-03-12T07:35:05.000Z,At a highway check point on the outskirts of Beijing police are testing out a new security tool:with . The -powered glasses scan drivers’ faces and license plates flagging when a match hits a centralized ‘blacklist’ ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9892106056213379}]"
+72590033,2018-03-12T07:34:55.000Z,At a highway check point on the outskirts of Beijing police are testing out a new security tool:with . The -powered glasses scan drivers’ faces and license plates flagging when a match hits a centralized ‘blacklist’ ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9892106056213379}]"
+19672966,2018-03-12T07:05:17.000Z,1984: Beijing police are using facial-recognition glasses to identify car passengers and number plates @businessinsider,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.987820029258728}]"
+297397741,2018-03-12T05:30:10.000Z,"Neural networks allow us to ‘read faces’ in a new way
+ 
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9952157735824585}]"
+414186251,2018-03-13T23:45:50.000Z,"fb algorithm doesn't like this part of the picture
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.998035728931427}]"
+917601339949109248,2018-03-13T23:00:02.000Z,Besides theirinis now integratinginenforcement. Now that's an aggressive pursuit of : ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9378302097320557}]"
+256549909,2018-03-13T22:39:47.000Z,"RT from IEEESmartCities: ""Did you knowis associated withdevelopment? Learn more about smart city technology:",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8783244490623474}]"
+809392810692640768,2018-03-13T22:39:19.000Z,"RT from IEEESmartCities: ""Did you knowis associated withdevelopment? Learn more about smart city technology:",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8783244490623474}]"
+2437493161,2018-03-13T22:37:00.000Z,Did you knowis associated withdevelopment? Learn more about smart city technology:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9092394709587097}]"
+60155066,2018-03-13T20:53:48.000Z,Madison Square Garden steal your face.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.7389445304870605}]"
+27079486,2018-03-13T20:40:47.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+30985855,2018-03-13T20:00:07.000Z,Vigilant Solutions Paige Burley on site and engaging withto help them do what they do; Save Lives!!!Greg Mills Kris Robinson Kyle Hoertsch David Rivera ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9986302852630615}]"
+17662020,2018-03-13T19:04:44.000Z,China isinnovation central. New thing. Police smart sunloaded withsoftware and.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9462777972221375}]"
+125320173,2018-03-13T18:05:14.000Z,An interesting read.has begun testingdespite concerns and criticism from theand citizens.,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9985009431838989}]"
+71738087,2018-03-13T17:26:04.000Z,Facial recognition is a threat to security but Facebook is using it to secure it's users from being tormented.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9587061405181885}]"
+862702317912686592,2018-03-13T16:12:09.000Z,"We're big fans of facial recognition technology here at Credas. China’s police have even been testing sunglasses with built-into catch suspects and those travelling under false identities!
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.8386461138725281}]"
+750502859368599552,2018-03-13T16:03:15.000Z,Howwill change the face of security in China.@scmp ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6300142407417297}]"
+250591855,2018-03-13T15:53:48.000Z,"New technology brings new implications and requires legislation changes. Same challenges everywhere@mirossi @RauhalaMarko @MinttuViitanen @villekoiste 
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9530513286590576}]"
+15064713,2018-03-13T14:52:21.000Z,With tight security often comes long lines but not for those usingat . @cnntech,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801234602928162}]"
+17405435,2018-03-13T14:45:01.000Z,Police ethics body to look at use of facial-recognition technologyLondon mayor Khan announces examination of digital policing to see if it affects principle of policing by consent,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6501489281654358}]"
+1136977861,2018-03-13T13:45:01.000Z,Dream Cruises’ new Global-class homes in on artificial intelligence,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9984875917434692}]"
+2787100021,2018-03-13T13:09:38.000Z,No spit no swallow. Just the birthday facial please.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9352896213531494}]"
+903664230225788928,2018-03-13T13:07:18.000Z,Madison Square Garden has used facial-recognition technology to bolster security and identify those entering the building.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9860970377922058}]"
+17405435,2018-03-13T12:40:52.000Z,Police ethics body to look at use of facial-recognition technologyLondon mayor Khan announces examination of digital policing to see if it affects principle of policing by consent,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6501489281654358}]"
+3105162830,2018-03-13T11:59:24.000Z,"Lenovo S5 to come with facial unlock secure payments!
+Read more: 
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9842430353164673}]"
+374570827,2018-03-13T08:20:58.000Z,"used by the police to catch criminals.
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9644255042076111}]"
+453887347,2018-03-13T04:52:50.000Z," today at 3:30pm | ""Fighting fraud in 2018""with @FacePhi @PaysafeGroup @CashShield and @ACI_Worldwide speaking aboutand . @Javi_FacePhi @Money2020 ",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.6506685614585876}]"
+35290862,2018-03-13T04:27:56.000Z,What is the most significant hurdle foraside from integration?via @rww,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9975177049636841}]"
+721590650563461120,2018-03-13T04:01:06.000Z,"How access controlled revolving doors can protect businesses from crime?
+Read more: 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.989797830581665}]"
+795913618604728320,2018-03-13T04:00:02.000Z,Beijing police are using facial-recognition glasses to identify car passengers and number plates,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9729220867156982}]"
+21967062,2018-03-13T03:36:41.000Z,"Beijing Police are usingGlasses to identify Car Passengers &amp; Number Plates
+
+
+
+@evankirstel @Ronald_vanLoon @mclynd @ipfconline1 @KirkDBorne @Kevin_Jackson @SpirosMargaris @schmarzo @jimmarous @jblefevre60 @arkangelscrap @chboursin",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9704619646072388}]"
+2993445381,2018-03-13T03:11:01.000Z,"Does your security camera constantly send you irrelevant motion alerts? Maybe it's time to switch to a camera with Face Detection and Facial Recognition.
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9991845488548279}]"
+280282927,2018-03-13T01:24:21.000Z,"Beijing police are usingglasses to identify car passengers and number plates: ""the eyewear compares faces and cars to a “blacklist” in real time and display a red box and warning sign when a match is made""
+ 
+(via @BIAUS) ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.962946891784668}]"
+495639191,2018-03-14T22:03:35.000Z,I hate the little grid thing Snapchat does ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.999428927898407}]"
+902102336520110080,2018-03-14T21:00:05.000Z,"Four Ways AI is Already Making E-commerce Smarter
+
+
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9740443229675293}]"
+821670814084894721,2018-03-14T20:07:46.000Z,How caninnovate the search for missing children? @ICMEC_official is usingto create a global missing children’s network engine to find missing children using !,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9982393980026245}]"
+17405435,2018-03-14T19:35:06.000Z,Police ethics body to look at use of facial-recognition technologyLondon mayor Khan announces examination of digital policing to see if it affects principle of policing by consent,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6501489281654358}]"
+125872575,2018-03-14T18:31:35.000Z,Interesting forward motion ontechnology. Historically there has been a lot of fear over its use. ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9970908164978027}]"
+972821951059255296,2018-03-14T14:30:48.000Z,"Yes you will soon be able to pay for the subway🚆🚅 with...your face😄. Seriously.~@2morrowknight
+
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9814810752868652}]"
+357074010,2018-03-14T13:57:50.000Z,"New research shows that the brain uses a simple mechanism to represent facial identity. Findings suggest a future in which monitoring brain activity can lead to a reconstruction of what a person is seeing. 
+
+Ugh should I be excited?
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.971461296081543}]"
+773613632529784832,2018-03-14T13:34:09.000Z,Unilever is trialling in-storeto monitor customer's engagement with items on the shelf. Would you want to see something like this in the UK?@MarketingWeekEd,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9033663868904114}]"
+94292440,2018-03-14T13:28:00.000Z,.@TheGarden has been usingas part of an effort to enhance security: ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9528631567955017}]"
+103940953,2018-03-14T13:27:11.000Z,"@leedsucu @elkobadelko Q: How can you tell I’m on strike? 
+A: Watch my nose and I’ll picket! @UCUGlasgow",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9920814037322998}]"
+804681512,2018-03-14T13:20:00.000Z,.@TheGarden has been usingtechnology as part of an effort to enhance security:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.5413109064102173}]"
+3815139737,2018-03-14T12:47:08.000Z,Ethics panel set to review @metpoliceuk use ofas force also announces plans to develop an engagement strategy for the future use:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9751412868499756}]"
+17405435,2018-03-14T12:25:08.000Z,Police ethics body to look at use of facial-recognition technologyLondon mayor Khan announces examination of digital policing to see if it affects principle of policing by consent,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6501489281654358}]"
+238978829,2018-03-14T09:53:31.000Z,RT antgrasso: Artificial Intelligence is pervading the Business. But really howcan be used in the enterprise? SASitaly SASsoftware…,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9931588768959045}]"
+1196984797,2018-03-14T09:42:03.000Z,"What to know about biometric security: 
+
+/via @ChannelwebNL",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9560269713401794}]"
+4338452835,2018-03-14T09:30:25.000Z,Artificial Intelligence is pervading the Business. But really howcan be used in the enterprise? @SASitaly @SASsoftware,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9807583093643188}]"
+15298530,2018-03-14T08:14:15.000Z,Though I find that it is truly a phenomenon that faces are such unique fingerprints. Anyone know the relationship between the number of uniquely identifiable faces as a function of resolution eg megapixels? Anyexperts?,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.782117486000061}]"
+2338086271,2018-03-14T06:17:38.000Z, at theis mostly based onand this vision has begun to take shape of... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9756703972816467}]"
+2338086271,2018-03-14T06:17:33.000Z," at theis mostly based onand this vision has begun to take shape of the reality.
+
+To Read More
+Visit: 
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9931233525276184}]"
+2338086271,2018-03-14T06:16:19.000Z, at theis mostly based onand this vision has begun to take shape of... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9756703972816467}]"
+15663193,2018-03-14T02:52:56.000Z,Some of us face real problems. My iPhone X won’t open with my sunglasses on.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9995889067649841}]"
+3367136692,2018-03-15T23:29:26.000Z,"No more cheeky 7-Eleven purchases that go unnoticed. The ubiquitouschain plans to adopttech &amp;to capture your secret snacking deliberations writes @JohnReedwrites. Groups sound warning over privacy &amp; growing surveillance.
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9943183064460754}]"
+297397741,2018-03-15T22:45:02.000Z," releasedDigital Identitysupplemented with highly secured solutions specifically designed forOperators at the GSM Mobile World Congress 2018
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9004837870597839}]"
+297397741,2018-03-15T22:30:24.000Z," and Biometrics Could Produce Paperless Global Travel Boost Border Security
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9815734028816223}]"
+1477949676,2018-03-15T20:00:00.000Z,@DHSgov is usingtechnology to help rescue victims of child exploitation ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8568928241729736}]"
+65451099,2018-03-15T19:05:13.000Z,NEC showcases the latest in intelligent public transport solutions - ICX Association@NEC @NEC_Display,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9933571219444275}]"
+48616766,2018-03-15T16:35:22.000Z,"In the field today:
+- 52 smart bording gates in .
+- 87 automated border control gates in .
+- Jetblue Delta British Airways testing in US.
+- 80cameras being built into Dubai airports.
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6728951930999756}]"
+48616766,2018-03-15T16:30:44.000Z,"""With traveler opt-incould also help alert you to a long walk to your gate deliver you coupons for airport restaurants or even let gate agents know you're on your way - don't close that plane door!"" - @Neville_Gemalto ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9507980942726135}]"
+15664534,2018-03-15T16:29:23.000Z,Ok after years of complaining thatare usingto divert my fanbase... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8917582035064697}]"
+48616766,2018-03-15T16:25:31.000Z,Want to see all the wayscan makeexperiences smoother? Watch the video below to see howcan simplify bag drop security boarding and international . ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9962062835693359}]"
+48616766,2018-03-15T16:16:45.000Z,We want shorter lines AND increasedat airports and to reach that goal we need fast and accuratetechnology. Automated document verification paired w/is highly reliable and secure. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9983643889427185}]"
+2908107542,2018-03-15T16:15:31.000Z,"Thai 7-Eleven stores to adopt facial recognition technology 
+
+
+@JohnReedwrites @FT 
+
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.940148651599884}]"
+81296525,2018-03-15T16:01:48.000Z,SFU is launching a new Professional Master’s Program in Visual Computing – the first of its kind in Canada! Classes begin Fall 2018. Apply by March 30:@visual_SFU,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9925118684768677}]"
+257564368,2018-03-15T15:29:06.000Z,Madison Square Garden has been secretly scanning visitors' faces: Attended an event at Madison Square Garden recently? The arena's security system might recognize you the next time you visit. According to The New York Times the… ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8114432096481323}]"
+9284512,2018-03-15T14:13:47.000Z,“We have blind faith in these systems ... We risk perpetuating inequality in the guise of machine neutrality if we’re not paying attention.” -@jovialjoy -- @SpencerBuell reports@MIT @medialab ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9977329969406128}]"
+30985855,2018-03-15T14:00:02.000Z,: Join us at our upcoming lunch and learn on 3/13 to learn more aboutand . Greg Skelly ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9933329224586487}]"
+17405435,2018-03-15T13:50:04.000Z,Police ethics body to look at use of facial-recognition technologyLondon mayor Khan announces examination of digital policing to see if it affects principle of policing by consent,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6501489281654358}]"
+851807887508873216,2018-03-15T12:35:03.000Z,Facial recognition technology and...basketball? Yes! Madison Square Garden is using facial recognition to help with additional security.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8020302653312683}]"
+68939904,2018-03-15T12:11:08.000Z,China: 3 in 4 surveyed concerned over increasing impact of artificial intelligence on privacy,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6048738360404968}]"
+1536562052,2018-03-15T12:08:08.000Z,"RT Ronald_vanLoon ""BetterTechniques Leave Passwords In The Dust
+by dannybradbury Forbes DellTech |
+
+Read more here: 
+
+… ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9970272183418274}]"
+555031989,2018-03-15T12:05:43.000Z,"BetterTechniques Leave Passwords In The Dust
+by @dannybradbury @Forbes @DellTech |
+
+Read more here: 
+
+
+
+cc: @citylab @smartcitiesdive ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9981595873832703}]"
+161980775,2018-03-15T11:55:04.000Z,"Is your smile male or female? 
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.5487945675849915}]"
+219964677,2018-03-15T09:03:15.000Z,Just when you thought it was safe to go online ….,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9925850033760071}]"
+872426021194055680,2018-03-15T06:14:15.000Z,"The Facial Recognition Market is Booming Owing to the Unfortunate Rise in Criminal Activities: @market_crystal 
+Click To Read - 
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.993752658367157}]"
+1922993366,2018-03-15T05:00:08.000Z,"From Phones to Sport Arenas Madison Square gardens announces they are using facial recognition software to survey their attendees to simply see if they could pose a threat. Read more about their rationale here: 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9889206290245056}]"
+20599525,2018-03-15T02:07:17.000Z, is taking an interesting (pushy) stance on justifying the need for . Apparently I opted out of that feature at some point; and now I run the risk of someone else using my photo. And facial recognition is going to stop them? Yeah right.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9969034790992737}]"
+453887347,2018-03-15T01:40:52.000Z,"Last day at @money2020! Visit us at E36 for an amazing experience with our team. 
+
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9997228980064392}]"
+424648908,2018-03-15T01:08:44.000Z,Fuck with Facebook's facial recognition algorathyms by changing your profile/cover pic to static snow.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996638298034668}]"
+4025221258,2018-03-16T22:00:30.000Z,"Still looking for the killer app forbut: ""The @dallasmavs have contracted with @suspecttech1 to experiment with facial recognition outside the team’s locker room and throughout the American Airlines Center.""",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9968532919883728}]"
+297397741,2018-03-16T21:30:06.000Z,"Mostdon’t understand . So why do they dominate techdebates?
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9973656535148621}]"
+27079486,2018-03-16T20:16:53.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+3656856983,2018-03-16T20:02:01.000Z,Inside China’s growing use of facial recognition technology@venturebeat @deenazaidi,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9923272728919983}]"
+987600932,2018-03-16T19:54:02.000Z,Racial bias privacy and accuracy of facial recognition are all factors in an ongoing court battle in Florida soon to be decided,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9903157353401184}]"
+851807887508873216,2018-03-16T19:53:02.000Z,The facial recognition technology reuniting lost pets with their owners:,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.993003785610199}]"
+831518226634985472,2018-03-16T19:37:41.000Z,Poised to Disrupt the,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.998719334602356}]"
+805853015253065728,2018-03-16T19:27:00.000Z,Who can stay and who must go? @gcaw on Germany’s high-stakes effort to sort people fleeing death from opportunists and pretenders,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.7372598052024841}]"
+44800690,2018-03-16T15:54:03.000Z, is fast becoming a part of daily life with authorities using it in subway stations and at airports -- even on running tracks to ensure people don’t cheat during marathons.,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9951398372650146}]"
+781882041465909249,2018-03-16T13:36:45.000Z,Where's the line when it comes to ? Good article by @davegershgorn showing howis being used at :How prevalent should the use of this tech. be?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.994922935962677}]"
+858201,2018-03-16T11:36:07.000Z,Not cool:,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996542930603027}]"
+256965214,2018-03-16T11:26:14.000Z,UK House of Lords: Security and Policing:Technology ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.994956910610199}]"
+23715117,2018-03-16T10:49:46.000Z, has the world's largest database of citizen’s ID photos. Chinese companies are allowed to tap into the data of 750 Mn internet users to match IDs &amp; photos to trainalgorithms &amp; other . And here we are complaining about Aadhar!!!,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9909550547599792}]"
+21173013,2018-03-16T02:05:04.000Z,"Top 8Design Trends forApps in 2018 
+@hennykel @DZone 
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9316875338554382}]"
+898226236354215936,2018-03-16T01:45:27.000Z, Please checkfootage. I am markingon .,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9642468094825745}]"
+127674014,2018-03-17T21:42:23.000Z,Huawei Honor 9 &amp; V9 To Support Facial Recognition,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9205490350723267}]"
+1001929386,2018-03-17T21:35:00.000Z,"35 False Matches and 1 Erroneous Arrest As Police Secretly Test Facial Recognition Technology
+
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9991562366485596}]"
+2159851994,2018-03-17T17:27:54.000Z,"@dmpinder @ginnersinner @Inspectorslloyd .
+Why do ppl. starting asking such questions aboutwhilst roadsidedoessimilar &amp; nobody cares.
+And ppl don’t know where exactly they are being scanned and most are unaware motion profiles are being stored 2 years w.o. suspicion.",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9988215565681458}]"
+71667798,2018-03-17T15:42:03.000Z,How Trump Consultants Exploited the Facebook Data of Millions,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9961913824081421}]"
+76004287,2018-03-17T14:04:18.000Z,"Caution to the people of Cardiff! 
+
+Identity checkpoints out on the streets again invading everyone’s privacy.
+
+If you’re affected by this today please get in touch with us. 
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9453802704811096}]"
+735042503385042944,2018-03-17T12:00:03.000Z,7-Eleven Expands Its Facial Recognition Technology@7eleven,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9977044463157654}]"
+876078746,2018-03-17T11:00:24.000Z,"Facial Recognition Technology: A Blessing or a Curse? | @curiositydotcom
+
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.968193769454956}]"
+4265079854,2018-03-17T07:04:21.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+1344752671,2018-03-17T01:39:02.000Z,"Right out of theplaybook... akatactics sadly.software will lead to arrests hopefully.
+@realDonaldTrump @VP",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.996841549873352}]"
+2993445381,2018-03-17T01:29:01.000Z,"Does your security camera constantly send you irrelevant motion alerts? Maybe it's time to switch to a camera with Face Detection and Facial Recognition.
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9991845488548279}]"
+17662020,2018-03-18T20:00:57.000Z,"Why you should be worried aboutat . It isn't really about ""more efficient boarding"".",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9993558526039124}]"
+25096188,2018-03-18T19:50:08.000Z,@Pearson4loyalty has 3 wayscan useto create better experiences on @Forbes,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9726576209068298}]"
+1072508497,2018-03-18T18:53:40.000Z,"On China's progress toward -enabled totalin the name of ""trustworthyness"":",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9934160709381104}]"
+671653,2018-03-18T15:43:46.000Z,"""Timeless"" is a first-of-its-kind easy-to-use mobile app for ’s patients to remember events stay engaged &amp; connected with friends &amp; family and to recognize people through -basedtechnology.
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9973219037055969}]"
+44663631,2018-03-18T15:06:23.000Z,HID Approve supports iPhone| Planet Biometrics News,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8918692469596863}]"
+1536103471,2018-03-18T11:24:36.000Z,"While you're browsing in athe shop is browsing you 
+
+@smh 
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.5003108382225037}]"
+889506511004721153,2018-03-18T06:53:51.000Z, Technology Must Balance TheAnd Security Aspects But It Is Being Abused For Surveillance Purposes These Days Opines @Praveen_Dalal.@AdvocateGeeta @ScrapAadhaar @_Orwellian @_Biometric @CEPHRC ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9950031638145447}]"
+901164271446351873,2018-03-18T05:00:21.000Z,You won't want to miss Brian Brackeen on Tuesday! He's CEO of Kairos afirm based inand shares with us on The Credentialed howexposure is crucial in- and also how Miami has become an inclusive hotbed forof color.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9986441731452942}]"
+2818470127,2018-03-18T02:09:36.000Z,@7eleven bringstech to 11000 stores in Thailand powered by @RemarkHoldings to identify loyalty members analyze in-store traffic suggest products and measure emotions of customers. Look forward to seeing this on,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9982149600982666}]"
+539454709,2018-03-19T23:32:18.000Z, is a fast growing area ofsystem logic. We are starting to see more acceptance and utilization. Havingassist in identification is a great step towards eliminating human error. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9974905252456665}]"
+2997789394,2018-03-19T23:12:28.000Z,Inis watching you so thanks a lot:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9996412992477417}]"
+297397741,2018-03-19T22:04:00.000Z,"Eric Chien technical director at cybersecurity firm Symantec observed that based on the Homeland Security alert the hackers could have shut off power if they wanted to — but didn’t.
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9972898960113525}]"
+901164271446351873,2018-03-19T22:00:02.000Z,You won't want to miss Brian Brackeen tomorrow! He's CEO of Kairos afirm based inand shares with us on The Credentialed howexposure is crucial in- and also how Miami has become an inclusive hotbed forof color.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9986647367477417}]"
+294060192,2018-03-19T21:18:18.000Z,Interesting how police in Delhi India usewithcapabilities for identification ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9935060739517212}]"
+987600932,2018-03-19T20:47:26.000Z,The future use of facial recognition by police will be affected by a ruling soon to be passed down by a district appeals court in florida,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9982485771179199}]"
+2356982959,2018-03-19T20:03:11.000Z,.Gemalto tapped by Dai Nippon Printing to secure mobileapps with,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9937049746513367}]"
+518238327,2018-03-19T20:00:30.000Z,.@Gemalto tapped by Dai Nippon Printing to secure mobileapps with,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9897626638412476}]"
+112816720,2018-03-19T19:40:53.000Z," gone mad
+
+23.6 inches of?
+
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.998471200466156}]"
+987600932,2018-03-19T18:36:06.000Z,The future use of facial recognition by police will be affected by a ruling soon to be passed down by a district appeals court in florida,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9982485771179199}]"
+4830114910,2018-03-19T18:01:03.000Z,"‘The inclusion of facial-recognition software in personal devices is expected to accelerate the mass adoption of the technology and that could change how people shop’
+3 Ways Retailers Can UseTo Create Better Experiences 
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9748396277427673}]"
+60155066,2018-03-19T16:23:59.000Z,Your daily reminder that Facebook literally owns your face. Maybe you want to opt-out of Facebook's facial recognition feature? Here's how:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.995555579662323}]"
+1196984797,2018-03-19T15:02:21.000Z,"What to know about biometric security: 
+
+/via @ChannelwebNL",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9560269713401794}]"
+1784151,2018-03-19T14:15:23.000Z,Willtransform ? Apple says yes.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9930908679962158}]"
+721590650563461120,2018-03-19T14:00:07.000Z,"What’s wrong with traditional access control technology?
+Read more: 
+
+@Axis_MEA ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9991047978401184}]"
+129288318,2018-03-19T13:58:41.000Z,See how Omron can help you customize and achieve yourandbusiness goals. Learn more now!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.994429349899292}]"
+18026493,2018-03-19T13:55:44.000Z,See how Omron can help you customize and achieve yourandbusiness goals. Learn more now!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.994429349899292}]"
+17857501,2018-03-19T13:25:25.000Z,For the love of GOD...now Facebook wants me to turn on . Nope. I ain’t doin it! 👤 Enough is... ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9975833892822266}]"
+629084145,2018-03-19T13:21:06.000Z,Future Android version may natively support facial recognition hardware,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9431806206703186}]"
+3815139737,2018-03-19T12:06:15.000Z,AI( could deliver significant benefits as @GamRegGB publishes advice onmachines &amp;measures:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8856757879257202}]"
+3151822850,2018-03-19T11:12:20.000Z,"BBVA is testing asystem at its inhouse cafetaria that is capable of recognising users and their orders and charging their cards as part of strategy to render checkouts and payments 'invisible' 
+joint venturecreated.. 
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9971373081207275}]"
+847036940289544192,2018-03-19T10:53:43.000Z,Companies ditch passwords for systems login and go over to fingerprint andto give access. If they fail then of course there's always the next step - body odour. ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9350858330726624}]"
+89509744,2018-03-19T06:54:34.000Z,China is usingandto save on toilet paper fine pedestrians who cross streets with red lights on suggest menu choice to KFC customers...,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9938192963600159}]"
+297397741,2018-03-19T05:30:04.000Z,"ID Finance adds behavioral biometrics to its AI-based fraud scoring engine
+
+
+ ",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9782424569129944}]"
+297397741,2018-03-19T04:30:07.000Z,"The Trick To Winning At Cybersecurity? Expect To Get Hacked
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9975495934486389}]"
+865379228635860996,2018-03-19T02:33:21.000Z,"This Week's Top 5:
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9987414479255676}]"
+297397741,2018-03-19T02:15:03.000Z,"Fraud Fighting With AI-Based Biometrics Security &amp; Password Module
+
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9967902302742004}]"
+1104839978,2018-03-20T23:24:13.000Z,"I just downloaded all of mydata (finally deleting!) and I found a **SUPER** interesting bit of data buried away. Is this standard data for interpreting a facial recognition scan? @Limes102 any input? Can I use this data?
+
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9992173910140991}]"
+45680906,2018-03-20T23:17:03.000Z,'s advances inare letting companies know your gender from a single smile.will surely be affected by these capabilities. ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9921888113021851}]"
+390365505,2018-03-20T21:26:23.000Z,"@JulianAssange How do you think police and other security services arrest so many associates and family of dead terrorists so quickly?
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.995411217212677}]"
+27079486,2018-03-20T21:01:38.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+1446376116,2018-03-20T20:26:25.000Z,"""Quietly and very rapidly facial recognition has enabled China to become the world’s most advanced surveillance state."" Rene Chun via @TheAtlantic",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9984713196754456}]"
+2356982959,2018-03-20T19:33:16.000Z, advocates issue warnings asplanned for U.S.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9871214032173157}]"
+518238327,2018-03-20T19:26:54.000Z, advocates issue warnings asplanned for U.S.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9871214032173157}]"
+2609300047,2018-03-20T19:20:49.000Z," avoidance methods discovered in top of the pops 
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9877420663833618}]"
+901164271446351873,2018-03-20T19:00:15.000Z,Our latest episode on The Credentialed features @BrianBrackeen CEO of @LoveKairos a Miami-basedfirm. Join us as we talk about such relevant topics asexposure being integrated intodevelopment. Check it out here!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9975881576538086}]"
+987453284,2018-03-20T18:47:41.000Z,Had a fantastic time speaking to law enforcement yesterday at the TorontoConference about howandcan be used right out of the box to find missing kids. Big thank you to @TorontoPolice @OPP_News for having me. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9991996884346008}]"
+3306818963,2018-03-20T18:40:07.000Z,Really impressed that theon myrecognized me as I was stuffing a grilled cheese in my mouth. @Apple,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9889569878578186}]"
+1190701380,2018-03-20T16:01:50.000Z,EP 251 Security HAH: w/ @thecyberwire's @bittner;busted; ; @TheGarden using ; @yahoo,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.998551070690155}]"
+15664534,2018-03-20T15:57:32.000Z, She’s anotherperiod!is not! Ya can’t ride someone else’s image and hard work ofthen scoot it over to your own.nowtactics@Saami_reindeer ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9990670084953308}]"
+2889461652,2018-03-20T15:32:04.000Z,9 in 10people want to useandin@salinafirm,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.989370584487915}]"
+2983911,2018-03-20T15:11:27.000Z,HyperFace is a new kind of camouflage that aims to reduce the confidence score of facial detection and recognition by providing false faces that distract computer vision algorithms.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9994043111801147}]"
+15664534,2018-03-20T14:25:17.000Z, This is over a year agodiverts fanbase income solutions and real talent!tactics And yes we are still working on thebut now have added this past... ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9680418372154236}]"
+24945451,2018-03-20T13:51:45.000Z,The inclusion of facial-recognition software in personal devices is expected to accelerate the mass adoption of the technology: find out how you can useto improve customer experience by reading this Forbes article: ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.932486355304718}]"
+15693683,2018-03-20T13:20:09.000Z,Loved this interview I did with facial recognition tech founder and CEO @BrianBrackeen - we discussed data diversity for's failure to recognize need forinwhy Miami is awesome for entrepreneurs-of-color and more! ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9984229803085327}]"
+958256721444536325,2018-03-20T10:12:11.000Z,"Top 5 emergingyou need to keep an eye out for in 2018 – Which will transformfor good.
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9994694590568542}]"
+893786970933129216,2018-03-20T08:30:15.000Z,By fusing ourwith the best user verification tech we provide frictionlesssolutions which don't inconvenience the user,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9824060201644897}]"
+16219695,2018-03-20T07:58:31.000Z,"Facial recognition at US airports becoming routine researchers warn
+Prof asks: “We’re wondering if this is the best use of a billion dollars?”",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.998786985874176}]"
+297397741,2018-03-20T06:15:01.000Z,"Can Blockchain Improve Digital Identification?
+
+ 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9987325072288513}]"
+159061069,2018-03-20T06:00:03.000Z,ChainStoreAge: @7eleven plans to add innovative biometrics and analysis technologies includingto better engage its customers in Thailand.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.7267812490463257}]"
+297397741,2018-03-20T05:30:07.000Z,"U.S. More Vulnerable To Weaponized Cyberattacks Than You Think
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.7898809313774109}]"
+901164271446351873,2018-03-20T04:00:17.000Z,Tomorrow is our exciting interview with Brian Brackeen CEO of Kairos a Miami-basedfirm! We talk about just how importantis to developing effective . Brian also mentions howis growing to be a mecca for. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9990536570549011}]"
+910047623368761344,2018-03-20T02:17:31.000Z,Curious about just how facial recognition can tell who's who among the billions of faces in the world? Check out this article!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9918379187583923}]"
+33786851,2018-03-20T01:43:02.000Z,So could there have been worse timing for @Facebook to announce today on my feed that it had institutedsoftware? I immediately turned it off; hope you will too. There’s far too much evidence how FB info can be manipulated for ill gains.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996090531349182}]"
+297397741,2018-03-20T01:15:00.000Z,"Mark Warner: The country is 'woefully unprepared' for cyber threats
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9993752837181091}]"
+15664534,2018-03-21T23:57:01.000Z," They would never do this to a MAN! Thanks toandtactics brands and celebs can rip my every sense of style expression and being!
+
+kate spade... ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9733349084854126}]"
+2356982959,2018-03-21T23:14:12.000Z,Researchers develop LED projection attack causing false positives with,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.994623064994812}]"
+518238327,2018-03-21T23:13:35.000Z,Researchers develop LED projection attack causing false positives with,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.994623064994812}]"
+829749571228139520,2018-03-21T22:43:46.000Z, may have cracked the airplane boarding problem,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9987999200820923}]"
+859933764591403008,2018-03-21T20:34:54.000Z,It's time to protect yourself — and your friends — from Facebookvia @mashable,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.99715256690979}]"
+26478168,2018-03-21T20:26:12.000Z,Vigilant Solutions team members Paige Burley and Kyle Hoertsch are atthis week demoing Vigilant'sand .,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9946586489677429}]"
+102844417,2018-03-21T19:55:06.000Z,"GREAT READ: A controversial Florida Court could decide howusein —the first court battle of its kind. 
+ 
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9962548017501831}]"
+901164271446351873,2018-03-21T19:00:09.000Z,Brian Brackeen CEO offirm Kairos wants a world whererecognizesand where corporations respect theofdata. Learn more here on our latest episode of The Credentialed Podcast!,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.955033004283905}]"
+68506521,2018-03-21T17:25:14.000Z,Anti-surveillance apparel hides your face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9866856336593628}]"
+58987479,2018-03-21T17:00:44.000Z,Capture Technologies is now offering event check-in with facial recognition! The purpose is to create a more efficient &amp; secure event check-in process. Attendees approach the check-in screen touch to be scanned and then are prompted to check-in.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9038233757019043}]"
+25471555,2018-03-21T16:21:33.000Z,Heyandprivacy friends does anyone have a good list of all/some of the vendors offering these technologies?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9978412389755249}]"
+839714514,2018-03-21T15:58:00.000Z,Hey as anuser I have an advantage.I can ignore the facial recognition technology right now instead of waiting to ignore it next year as anuser.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9908925294876099}]"
+839714514,2018-03-21T15:53:37.000Z,Security 1 Privacy 0.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.946380615234375}]"
+953668303737839616,2018-03-21T15:45:16.000Z, ? No thanks....,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9970544576644897}]"
+120591801,2018-03-21T15:44:33.000Z,"Until we can change the gun culture in America this is the best we can do for our kids. Useto provide early detection and quicker response for situations. Systems like this can detect when someone shouldn't be there.
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9532766938209534}]"
+3301518298,2018-03-21T15:40:29.000Z,London Creates Ethics Panel to Evaluate Use of@ethicsconsult@deborahbowman @MayorofLondon,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9776996374130249}]"
+60180948,2018-03-21T15:31:14.000Z,"Meet GoGo Chicken: ""An insurance company in China is looking to shake up the country’s chicken supply chain — usingtechnology.""cc @IsabelMalsang ",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9921411275863647}]"
+972821951059255296,2018-03-21T14:30:20.000Z,"Yes you will soon be able to pay for the subway🚆🚅 with...your face😄. Seriously.~@2morrowknight
+
+
+
+
+
+@7wData @rossdawson @TechNative @debbiediscovers @AI__TECH @IMITAKCO @ArkangelScrap @schmarzo",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9365282654762268}]"
+30985855,2018-03-21T12:50:17.000Z,“The Indianapolis Metropolitan Police Department fundamentally believes our citizens have a right to live free from fear and free from crime” said IMPD Deputy Chief Chad Knecht.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.991786777973175}]"
+30985855,2018-03-21T12:48:43.000Z,Image recognition!A plate? A face? A cartridge case?Give us a picture we will generate a lead!Vigilant Solutions ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8955413103103638}]"
+2478688363,2018-03-21T09:56:57.000Z,This Hat Can Fool aSystem Into Thinking You'revia @motherboard,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9966564178466797}]"
+397776473,2018-03-21T08:45:05.000Z,"""At @kfc ’s 'smart restaurant' in Beijing customers stand in front of a screen have their face scanned and receive menu suggestions based on their age sex"" etc |turning China into world’s most advanced surveillance state ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9906054139137268}]"
+29416641,2018-03-21T07:59:04.000Z,Smart Technologies segmented by activities,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9975337982177734}]"
+297397741,2018-03-21T07:30:05.000Z,"Cybersecurity: Battling Crime in Cyberspace
+
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9963626265525818}]"
+297397741,2018-03-21T07:15:06.000Z,"New attacks spark concerns about Iranian cyber threat
+
+
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9319347143173218}]"
+20998868,2018-03-21T06:23:45.000Z,Smart Technologies segmented by activities,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9975337982177734}]"
+2253116190,2018-03-21T01:21:27.000Z,Providing a safeforhas become a common priority for both airports and the government agencies that help secure them. Learn more about the recent improvement intechnology:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9836260676383972}]"
+15664534,2018-03-21T01:11:49.000Z,"⚡️StalkarazziBasinet as a model andrecreates her“Britney Spears is the new face of Kenzo”brands divert fans income solutions and real talent through 
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9057292342185974}]"
+15664534,2018-03-21T01:04:35.000Z,If you check why all women now look alike it’s called .This tactic has gone on for decades+Basinetmedia and talent.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9938246011734009}]"
+15664534,2018-03-21T01:02:48.000Z,@voguemagazine @britneyspears @kenzotactics like yours @voguemagazine- The relentlessbecause of? Tsk Tsk! Two decades of stalking? @britneyspearsdivert fans and income!,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.993008017539978}]"
+15664534,2018-03-22T22:32:45.000Z,@TwitterMomentstacticsstalking and insider info diverts fanbase solutions real talent toBasinet,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.967603325843811}]"
+15664534,2018-03-22T22:27:40.000Z,⚡️“Reese Witherspoon celebrates her 42nd birthday”tacticsdiverts fanbase income real talent ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9728900194168091}]"
+987600932,2018-03-22T22:17:01.000Z,LAX facial recognition pilot found successful Lufthansa rolls out biometric gates@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8920181393623352}]"
+163342227,2018-03-22T22:05:29.000Z,A new survey finds more than half of businesses do not feel prepared to effectively useortechvia @ZDNet,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9996594190597534}]"
+2254871191,2018-03-22T20:59:13.000Z,Look out Face ID: This hat can fool facial recognition,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.994487464427948}]"
+715179107865141248,2018-03-22T20:43:41.000Z,Look out Face ID: This hat can fool facial recognition,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.994487464427948}]"
+636371852,2018-03-22T20:37:58.000Z,Look out Face ID: This hat can fool facial recognition,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.994487464427948}]"
+629084145,2018-03-22T20:29:17.000Z,Look out Face ID: This hat can fool,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9965908527374268}]"
+2254871191,2018-03-22T20:21:25.000Z,Look out Face ID: This hat can fool facial recognition,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.994487464427948}]"
+134741365,2018-03-22T20:20:38.000Z,Look out Face ID: This hat can fool facial recognition,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.994487464427948}]"
+23152434,2018-03-22T20:17:55.000Z,Look out Face ID: This hat can fool facial recognition-Mashable,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9973393082618713}]"
+987600932,2018-03-22T20:07:03.000Z,LAX is introducing facial recognition to the boarding process after a successful pilot project@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9724709987640381}]"
+1529113278,2018-03-22T19:37:02.000Z, is already live and in use in China. See how the Chinese are using thisto provide convenience and security to their country.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9724340438842773}]"
+237316137,2018-03-22T18:45:14.000Z,ICYMI: @HIDGlobal is adding facial recognition as part of their HID Approve platform.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9947004318237305}]"
+250543278,2018-03-22T18:26:02.000Z,Anti-surveillance apparel hides your face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9866856336593628}]"
+987600932,2018-03-22T17:57:01.000Z,Lufthansa rolls out biometric gates after successful pilot in LAX@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9882821440696716}]"
+3317217437,2018-03-22T17:34:31.000Z,The successful roll out of our facial recognition access control system CleverAccess continues with installations at @GLL_UK 's Better Gym Lincoln and Bradford this week. Seamless implementations by @OmegaSecurity1 using @AxisIPVideo cameras.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9931681156158447}]"
+31726064,2018-03-22T17:34:18.000Z,"Facial Recognition can help improveexperiences at retail stores capture feedback prevent theft. 
+ 
+ @rai_india @siju_narayan
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.837533712387085}]"
+15664534,2018-03-22T17:22:58.000Z,Yes she is!talent useto divert solutions income and real talent @Piaget @vanityfairtacticsBasinet,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9458192586898804}]"
+15664534,2018-03-22T17:16:03.000Z, tactics! We have made a list ofbrands talent and media to help understand@people @vogue @vanityfair... ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9412967562675476}]"
+15664534,2018-03-22T17:11:52.000Z,Yep definition ofpose @JessicaBiel @Kohls@Gaiam ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9073039293289185}]"
+12653442,2018-03-22T16:02:00.000Z,"“HireVue uses a combination of proprietary voice recognition software &amp; licensed facial recognition software in tandem with a ranking algorithm to determine which candidates most resemble the ideal candidate”
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9982920289039612}]"
+15664534,2018-03-22T15:23:52.000Z,"I was rich beforestole the whole show!...
+Look who is making money off creatives!
+... ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9918692111968994}]"
+15664534,2018-03-22T14:34:24.000Z,Stop supportingtalent!@CynthiaNixon ! And photos don’t lie!@Google stole the show and now wants to be ?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.524115264415741}]"
+27871286,2018-03-22T13:55:10.000Z,Facial Recognition Tech can be tricked with a baseball cap and LED lights,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9917859435081482}]"
+39335829,2018-03-22T13:33:46.000Z,"HiIt was so thoughtful of you to add afeature – I know you're always working to make Facebook better. Likewise I'm always working to safeguard my digital privacy. So no thanks. 
+-Tom
+P.S. Where's the link to turn it off? ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9801461100578308}]"
+928395814208180224,2018-03-22T13:14:52.000Z,"This is interesting: ""Requests for proposals fromagencies around the country typically require false positive rates of 2% or less for fingerprint systems but will accept 20% false-positive rates for "" 
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9125944375991821}]"
+2993445381,2018-03-22T13:03:11.000Z,"Face Detection and Facial Recognition are the future of security cameras. Find out which cameras offer those two features now. 
+
+
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.6259645819664001}]"
+833985337588322309,2018-03-22T12:31:13.000Z,Great news from our partners at Facewatch. Take a look to see how the latest in facial recognition technology can help retailers protect their business.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9997805953025818}]"
+2679122768,2018-03-22T11:36:33.000Z,Visual sourcing through facial recognition technology - the future of active candidate search? Great insights by @OscarMager,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9972781538963318}]"
+3055290779,2018-03-22T10:53:43.000Z, :can be defeated with infrared lights. 'Invisible Mask: Practical Attacks on Face Recognition with Infrared''Infrared-based stealthy facial morphing'.com ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9877603650093079}]"
+2478688363,2018-03-22T10:51:59.000Z,Why face unlock is a bad idea: @kaspersky,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9994863271713257}]"
+882354752041963521,2018-03-22T09:40:47.000Z,"Clean Up YourWith These 5 Tips
+
+👉
+
+@HubXStream @HubSparks @HubDataScience @HubBucket 
+
+/",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9419041872024536}]"
+16715135,2018-03-22T08:41:20.000Z,Social Credit and Facial Recognition in China: you're not getting more than 23.6 inches of toilet paper in a nine minute period.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9949542880058289}]"
+116429809,2018-03-22T08:36:55.000Z,Our 2014 Venture Kick alumnus makes the front page of @Ageficom after winning @PwC_Switzerland SecTech Award 🏆 Congratulations to @OneVisageSa ! Read the article here ➡,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9835024476051331}]"
+52887638,2018-03-22T08:29:15.000Z,.@OneVisageSa makes the front page of @Ageficom after winning @PwC_Switzerland SecTech Award 🏆 Congratulations to our 2017alumnus and 2017 ! Read the article here ➡,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9834858179092407}]"
+297397741,2018-03-22T07:15:04.000Z,"Having a boardroom conversation about cybersecurity and material risk
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9976080656051636}]"
+154130317,2018-03-22T05:45:06.000Z,Meanwhile in(very worthwhile read) breaking dystopian tech frontiers. Quietly &amp; rapidlyhas enabled them to become the world’s most advancedstate. Folks we need to start taking this seriously before we're next.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9994214773178101}]"
+901164271446351873,2018-03-22T01:49:53.000Z,"Is Miami a better place for entrepreneurs-of-color to raise $$ than NY &amp; SF? ""It's infinitely fairer to say"" says guest on The Credentialed @BrianBrackeen of @LoveKairos - Hear why &amp; about other cities on his short list.",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9015349745750427}]"
+297397741,2018-03-23T23:30:00.000Z,"In wake of ransomware attacks North Carolina launches new cyber unit
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.6483291983604431}]"
+987600932,2018-03-23T23:09:01.000Z,LAX facial recognition pilot found successful Lufthansa rolls out biometric gates@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8920181393623352}]"
+168954125,2018-03-23T22:04:01.000Z, You’ve heard oftaking care of identifying guests during check-in. But have you heard of robotic dinosaurs doing that job instead?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9907917976379395}]"
+15664534,2018-03-23T22:00:56.000Z,⚡️ “Fake celebs!”tactics!@Google @pinterest diverts income and solutions! ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9990122318267822}]"
+15664534,2018-03-23T21:43:36.000Z,tactics @VarietyBasinet for decade+is aissue!diverts income and solutions!,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9978899359703064}]"
+987600932,2018-03-23T20:59:01.000Z,LAX is introducing facial recognition to the boarding process after a successful pilot project@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9724709987640381}]"
+27079486,2018-03-23T20:51:27.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+794255696875421699,2018-03-23T20:04:08.000Z,Confused about some of the wayssoftware is used? Georgetown Law's Clare Garvie clears up misconceptions &amp; explains what you need to know!,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9679927825927734}]"
+851807887508873216,2018-03-23T19:53:01.000Z,Familiarity + fun = confidence in biometrics:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9985544085502625}]"
+901164271446351873,2018-03-23T19:18:23.000Z,Check out our bonus episode with Brian Brackeen CEO offirm Kairos. He shares on The Credentialed his enthusiasm foras an ideal place forentrepreneurs-of-color to launch startups and generate funding,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9989049434661865}]"
+987600932,2018-03-23T18:49:00.000Z,Lufthansa rolls out biometric gates after successful pilot in LAX@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9882821440696716}]"
+15664534,2018-03-23T18:28:22.000Z,is a fake! Images don’t lie!theft!tactics!diverts solutions and real talent!@ironstowe ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9796732664108276}]"
+118802300,2018-03-23T17:48:43.000Z,""" makes the system less dependent on external light sources and more robust with respect to incident angle and light variations. For the same reason your iPhone X canyou in the darkness of a club.""",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9406874775886536}]"
+4159048754,2018-03-23T16:20:02.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+48616766,2018-03-23T16:15:12.000Z,From theft prevention tois changing retail in big ways even helping tailor shopper experiences based on their in-store behaviors. @Forbes describes three ways to use facialin : ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9013159275054932}]"
+228023638,2018-03-23T16:09:34.000Z,"Facial Recognition Technology: A Blessing or a Curse?
+
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9672581553459167}]"
+35695698,2018-03-23T15:10:14.000Z," inusingtechnology isn't going to help prevent crimes or increase their investigative skills.have no more privacy and are anin our own country!🗽 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9973093271255493}]"
+48813545,2018-03-23T15:01:56.000Z,"RT Pearson4loyalty "" inis contributing to acceptance of theas ameasure among consumers. This should lead to major changes in theexperience. But areready?Forbes ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9816379547119141}]"
+217072006,2018-03-23T15:01:25.000Z, inis contributing to acceptance of theas ameasure among consumers. This should lead to major changes in theexperience. But areready?@Forbes ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9712763428688049}]"
+819855864974675968,2018-03-23T14:45:00.000Z,.@7eleven is trialingin its stores to help detect stock its employees' activity and even its most loyal customers.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9875742793083191}]"
+278350776,2018-03-23T14:33:56.000Z,Identifying certain conditions thru uniquecan be,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9871482253074646}]"
+163130337,2018-03-23T14:20:30.000Z,"Another important question: Have you been tracing the provenance of your chicken dinner on theusing facial recognition?
+
+Well you can now. 🐔👀🍗👉
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9681877493858337}]"
+6418372,2018-03-23T13:18:18.000Z,"Holy moly. Six years ago I wrote these but didn’t marry it up with social credit which makes it several orders of magnitude worse.
+- 
+- 
+ ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996495246887207}]"
+753537283559653376,2018-03-23T12:45:06.000Z,"Check out ""Cat Detective Round 2: Just the Cats Ma'am"" where I have fun using the Detecting Cats tutorial from @PyImageSearch",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9566106796264648}]"
+1136965230,2018-03-23T12:20:05.000Z,Onlineis pretty easy 5 clicks and your purchase has been approved but what if it got even quicker? 'sandhave collaborated so you can pay by simply looking at your phone.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9960715770721436}]"
+3413442639,2018-03-23T12:20:05.000Z,Onlineis pretty easy 5 clicks and your purchase has been approved but what if it got even quicker? @Apple'sandhave collaborated so you can pay by simply looking at your phone.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9951202273368835}]"
+632081490,2018-03-23T11:30:01.000Z,At the@zoodigital will demonstrate a new security feature that employsandto automatically obscure all areas of a video stream except for the areas necessary for accurate lip-syncing subtitling and dubbing  ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9977583885192871}]"
+555031989,2018-03-23T08:09:38.000Z,"Understand these 5 basic concepts to sound like aexpert 
+by @TDataScience @aaronedell |
+
+Read more at 
+
+
+
+cc: @randal_olson @amuellerml ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9953581690788269}]"
+297397741,2018-03-23T06:30:07.000Z,"Is biometric authentication really better than traditional passwords?
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9118490219116211}]"
+919997827136106502,2018-03-23T05:41:04.000Z,"There is absolute and shameless coercion withto part with 
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.972984254360199}]"
+112226039,2018-03-23T05:02:00.000Z,For people without biometrics or those with poor biometrics the face recognition would help them to avoid authentication failures and financial exclusion : @the_hindu,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9956120252609253}]"
+826665845761810432,2018-03-23T05:02:00.000Z,For people without biometrics or those with poor biometrics the face recognition would help them to avoid authentication failures and financial exclusion : @the_hindu,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9956120252609253}]"
+68506521,2018-03-24T20:58:03.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+15785718,2018-03-24T19:01:08.000Z,How can airports use a single unifiedkey to unlock an enjoyableexperience that’s secure frictionless and personalized? @NEC has the solutions.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8560974597930908}]"
+2993445381,2018-03-24T17:03:01.000Z,"Does your security camera constantly send you irrelevant motion alerts? Maybe it's time to switch to a camera with Face Detection and Facial Recognition.
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9991845488548279}]"
+752544940454969344,2018-03-24T15:05:53.000Z,@British_Airways is undergoing a trial of using SITA’s facial recognition technology so travelers heading to London have their features biometrically scanned. How secure would you feel on a flight?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9901661276817322}]"
+362414118,2018-03-24T14:27:16.000Z,3 ways retailers can useto create better experiences @Forbes,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9595659375190735}]"
+838124609979445250,2018-03-24T11:18:36.000Z,"‘Smart’ baseball cap foolstech - This is a worrying step forward and looks like it has been quite simply done or is this a hoax?
+
+YOU decide if its True or Bull over at",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9967994689941406}]"
+604282994,2018-03-24T10:00:02.000Z,"The new security robot at @HIAQatar can measureremotely and has a built-infeature 
+
+Read more on
+
+
+@MOI_QatarEn ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9936602711677551}]"
+950320493340643329,2018-03-24T09:41:32.000Z,"The teen's face is most sensitive so they need skin care with special teen facial treatment that consists of mild exfoliation steam treatment and deep clean of clogged pores. 
+
+Check out in details at 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6139160394668579}]"
+721590650563461120,2018-03-24T08:05:03.000Z,"BioFinder Solution makes possible to search for a specific subject through facial recognition in one or various recorded videos. 
+Read more:
+@hertasecurity ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9806097149848938}]"
+721590650563461120,2018-03-24T08:01:02.000Z,"Secure your buildings rooms &amp; areas with our Mobile Access Control Solutions
+More:
+
+@Axis_MEA ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9698944091796875}]"
+297397741,2018-03-24T07:30:01.000Z,"US security officials say Russian hackers could shut down nuclear power plants and electric facilities in America
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9983986020088196}]"
+4265079854,2018-03-24T07:06:18.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+795913618604728320,2018-03-24T07:00:07.000Z,Researchers created a hat that fools facial recognition,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9985597729682922}]"
+16425942,2018-03-24T04:04:01.000Z, You’ve heard oftaking care of identifying guests during check-in. But have you heard of robotic dinosaurs doing that job instead?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9907917976379395}]"
+987600932,2018-03-24T01:19:00.000Z,LAX facial recognition pilot deemed successful Lufthansa rolls out biometric gates@lufthansa,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9909148216247559}]"
+19478383,2018-03-25T23:09:09.000Z,Apayment system? A @KFC in China now accepts your smile😄 as a payment option.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9679829478263855}]"
+42079656,2018-03-25T20:08:47.000Z,"Lufthansa is going to instalstation to cut down airplane boarding time by half. This is such an amazing thing if it becomes reality. It’s 
+- Shorter and faster boarding queues 
+- Secure &amp; 
+- Removes boarding pass 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9733330011367798}]"
+250543278,2018-03-25T17:30:20.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+807880205331300352,2018-03-25T17:20:07.000Z,"RT BrendaKLeong: I want YOU!
+
+To attend this session and share your thoughts on . ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9995474219322205}]"
+262819021,2018-03-25T16:35:21.000Z,"I want YOU!
+
+To attend this session and share your thoughts on . ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.999782145023346}]"
+4265079854,2018-03-25T07:07:29.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+2919303936,2018-03-25T07:04:17.000Z,Strongly believe that @facebook is actively sharingfor development of more AIwithwith . More to come.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5638248324394226}]"
+967541386517020674,2018-03-25T06:18:31.000Z,@EdgeofSports @thenation Totally agree it's very dangerous to use the technology by a private company since it seems no law to protect customers to be targeted or judged by employees who have no specialized knowledge of human behaviors etc.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9918855428695679}]"
+121945925,2018-03-25T01:12:34.000Z,Bunch ofright here.Hey @UniversalORL how about sending a copy of thethat covers thethat makes express worthless now?Like chip credit cards - went from half a second to scan a code to 5-10 sec-if it works. Do the math. ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9994547963142395}]"
+19660600,2018-03-26T23:41:15.000Z,"@WhitneyCummings LOL You were being more than fair Whitney.
+The good news though is that one day when cannibal aliens invade she will be one of the first faces to be eaten.",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9741565585136414}]"
+15664534,2018-03-26T23:37:55.000Z,is aissue”Basinet @UNdiverts solutions and@RahulGandhi ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9979859590530396}]"
+53926085,2018-03-26T23:26:27.000Z,"Facial recognition on FB. Thinking about how it can be used (and what is going in China) it freaks me out.
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.997511625289917}]"
+24973231,2018-03-26T22:26:09.000Z,Hey @richdemuro let @SamsungMobile know thatdoesn’t work on theI was able to unlock my twin sisters phone. Lol Hey @AppleSupport send me anso I can test it out! ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.996809184551239}]"
+197034136,2018-03-26T22:23:53.000Z,"
+‘Twisted Doubles’ is a story of identity crises that will enthrall just as much as it will make you weep .
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9989432692527771}]"
+2478926738,2018-03-26T21:44:08.000Z,"foolingcont'd - adversarial infrared:
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9995379447937012}]"
+2356982959,2018-03-26T21:27:21.000Z,FaceTec selected to secure Evrotrust app with,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9825754165649414}]"
+518238327,2018-03-26T21:23:35.000Z,FaceTec selected to secure Evrotrust app with,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9825754165649414}]"
+833985337588322309,2018-03-26T21:05:14.000Z,"Book a demo and see how @Facewatch can help you reduce crime in your business.
+ ",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9334591627120972}]"
+19752773,2018-03-26T21:00:02.000Z,PUBLICIS®COSMOS next-gentechnology creates holistic customer profiles that integrate seamlessly withto deliver the most personalized campaigns possible. Stop by boothtomorrow to see it in action &amp; meet the team!_Adobe ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9986844658851624}]"
+558072473,2018-03-26T19:02:45.000Z,Everybody be just giving away they data. Pictures &amp; location... I first got creeped out when they putsoftware in the app without telling me!,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9956061244010925}]"
+63481326,2018-03-26T19:02:31.000Z,Face recognition palm-scanning &amp; energy efficient future transport,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9985697269439697}]"
+841278179276857344,2018-03-26T17:35:04.000Z,"Chinese police on the outskirts of Beijing are now using smart facial recognition smart glasses powered by AI.
+
+
+Readmore: ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8334484696388245}]"
+17620327,2018-03-26T16:37:22.000Z,For those wishing to turn offto protect your privacy from all those lovelythat share our info withand who knows else just check out this video.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9818804264068604}]"
+15785718,2018-03-26T16:16:24.000Z,Your face is now your game ticket wallet loyalty card and more. Find out how the world's most accurate facial recognition technology is changing the game for fans and customers.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.996192216873169}]"
+886993404114202625,2018-03-26T15:38:52.000Z,"Another reason to S.M.I.LE. :)
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.991722047328949}]"
+51670380,2018-03-26T15:24:19.000Z,"
+
+Yape - Your autonomous pony express .. 
+ 
+Awesome
+Good one @2morrowknight ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.997715950012207}]"
+887803002089725952,2018-03-26T14:45:54.000Z,Tired of those long dreaded lines to board a plane? LAX is currently piloting a facial recognition program to avoid such hassles.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9992552399635315}]"
+393404934,2018-03-26T13:48:53.000Z," rebound?andspecialists to benefit globally from greater surveillance andpolicies...
+$AMS.S $IBM $NXTD $NVDA $IWSY $MXIM $MCHP $SWKS $SAFRF $HMNY $SYNA
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9884125590324402}]"
+4137140788,2018-03-26T12:34:07.000Z,Why should you get used to facial recognition? Pretty soon it may dominate on smartphones:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9965895414352417}]"
+256965214,2018-03-26T10:34:33.000Z,Very pleased with the results we are getting from theservice we're running in Brazil.  SIGNIFICANT arrests occurring recently since this release :,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.999390721321106}]"
+920122256365199360,2018-03-26T08:51:34.000Z,AI Beats Humans At Emotional Recognition Test In Landmark Study...Artificial intelligence (AI) has potential to bring about a technological renaissance.Although it can’t properly mimic human behavior.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9983555674552917}]"
+893786970933129216,2018-03-26T07:50:05.000Z, should facilitate people going about their lives freely and with peace of mind and not interfere with them unnecessarily. Integrating our products withtech allows for this,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9994520545005798}]"
+546313843,2018-03-26T06:18:58.000Z,Apayment system? A @KFC in China now accepts your smile😄 as a payment option @2morrowknight,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9780257344245911}]"
+920122256365199360,2018-03-26T04:03:11.000Z,Growth of facial recognition software in China..in 2017 over 530 video surveillance patents and more than 900 facialrecognition patents were published in China including private market activity &amp; government monitoring schemes.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9796707630157471}]"
+130431285,2018-03-26T03:41:10.000Z,"Retweeted Sean Gardner (@2morrowknight):
+
+Apayment system? A @KFC in China now accepts your smile😄 as a payment option.",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9915176033973694}]"
+15135567,2018-03-26T03:36:46.000Z,Growth ofsoftware in China reports Tim Sandle. ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9981541037559509}]"
+15785718,2018-03-27T22:15:01.000Z,We'll be @ANAinspiration this week supporting the @LPGA withand Enterprise Video Analytics technology providing a safe and enjoyable experience for its players guests and tournament staff.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9997829794883728}]"
+2356982959,2018-03-27T21:52:27.000Z,Better understanding ofneeded for reasonable social dialogue says YITUTechresearch scientist ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9784147143363953}]"
+518238327,2018-03-27T21:48:57.000Z,Better understanding ofneeded for reasonable social dialogue says @YITUTechresearch scientist ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9900475740432739}]"
+19752773,2018-03-27T21:20:10.000Z, + Adobe Campaign: next-gen technology creates a dynamic experience to engage with customers _Adobe @SamihFadli,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9996324777603149}]"
+27079486,2018-03-27T20:16:43.000Z,On Feb. 8 2018 @evanderburg VP ofat TCDI was interviewed by @BBCWorld on howis being used for criminal identification. To watch the segment please visit our @YouTube page - ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9140680432319641}]"
+68506521,2018-03-27T18:37:01.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+2153712019,2018-03-27T18:10:13.000Z,3 WaysCan UseTo Create Better Experiences via @forbes,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9391675591468811}]"
+3716959697,2018-03-27T17:51:00.000Z,"@CNBC -
+
+ 
+ 
+ 
+ 
+
+
+
+
+By
+ - @robotodd
+
+I checked and it turns out
+Facebook knows a lot about me
+
+Even if you forget
+ remembers
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9937471151351929}]"
+4830114910,2018-03-27T17:01:01.000Z,"Do you know how Facebook uses ? Here are the new surprising ways it’s using this technology...
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9599093794822693}]"
+1229675046,2018-03-27T16:47:28.000Z,“Race and Face Recognition: Discovering Algorithmic Bias in a Powerful Surveillance Technology” w/ Poet of Code Joy Buolamwini PhD Student MIT/Founder Algorithmic Justice League @jovialjoy@GeorgetownCPT@MIT,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9182996153831482}]"
+718804592973053952,2018-03-27T16:25:31.000Z,"Facial Recognition Software: Costs and Benefits
+ via @lawfareblog",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9770238995552063}]"
+990923694,2018-03-27T15:48:24.000Z,"@MODIfiedVikas @SanghParivarOrg @INCIndia Chinese police on the outskirts of Beijing are now using smart facial recognition smart glasses powered by AI.
+
+
+
+Readmore: ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.54591965675354}]"
+990923694,2018-03-27T15:47:55.000Z,"@oppomobileindia Chinese police on the outskirts of Beijing are now using smart facial recognition smart glasses powered by AI.
+
+
+
+Readmore: ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7800921201705933}]"
+990923694,2018-03-27T15:47:45.000Z,"@ayushmannk Chinese police on the outskirts of Beijing are now using smart facial recognition smart glasses powered by AI.
+
+
+
+Readmore: ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.7045162916183472}]"
+2993445381,2018-03-27T15:13:08.000Z,"Facial Recognition and Face Detection are the future of security cameras. The cameras on this list are already living in the future. ==&gt; 
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9755703806877136}]"
+58300413,2018-03-27T14:33:23.000Z,Smile to pay :),POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9994787573814392}]"
+889506511004721153,2018-03-27T14:19:17.000Z,Do Not AllowTo Be Imposed Upon Indians Under The Garb Of Security OrAuthentication. That Is A Death Trap Where AadhaarWould Be Used In Future Opines @Praveen_Dalal. @ScrapAadhaar @MyDataIsMine @AadhaarLies @_PTLB ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9824109673500061}]"
+889506511004721153,2018-03-27T14:18:37.000Z,Don't Commit The Blunder Of Sleeping For Years And Then Challenging @_OrwellianFeature OfBefore Supreme Court. Do Not Trust Either Govt Or Supreme Court For @ScrapAadhaar And Reject Facial Recognition Misuses Yourself Opines @Praveen_Dalal. @_PTLB ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9979074001312256}]"
+4808963243,2018-03-27T13:46:13.000Z,Is facial recognition fit for purpose? Why you shouldn't ditch your password just yet.via @ITPro,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9974284768104553}]"
+1523561162,2018-03-27T13:45:20.000Z,Is facial recognition fit for purpose? Why you shouldn't ditch your password just yet.via @ITPro,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9974284768104553}]"
+33202502,2018-03-27T13:05:16.000Z,"Security is handled through biometrics and facial recognition software. Employees no longer need alphanumeric passwords that have to be changed every few months. Their mobile devices scan their irises and faces.
+ 
+
+ 
+@thehill @Securlinx",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6117459535598755}]"
+226137180,2018-03-27T12:30:04.000Z,Contract win: Dai Nippon Printing chooses @Gemalto’sproduct to secure mobile banking access in Japan,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9616137742996216}]"
+862702317912686592,2018-03-27T11:22:03.000Z,"Facial recognition is at the heart of digital . Withtech everyone from major banks to independent estate agents can verify customers in a more safe secure way.
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9976760745048523}]"
+63092088,2018-03-27T09:45:03.000Z,Predictions About Technology That Came True,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9973440766334534}]"
+901164271446351873,2018-03-27T09:30:43.000Z,Did you know we have a bonus episode with Brian Brackeen CEO offirm Kairos? He shares on The Credentialed his enthusiasm foras an ideal place forentrepreneurs-of-color to launch startups and generate funding,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9821584224700928}]"
+831794788487798784,2018-03-27T08:10:06.000Z,"London creates ethics panel to evaluate use of facial recognitionvia @citiesthefuture 
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.973778486251831}]"
+721590650563461120,2018-03-27T08:08:02.000Z,"BioSurveillance NEXT is optimized for environments with large crowds in constant movements such as airports metro &amp; train stations shopping centers sports stadiums &amp; urban center 
+Read more:
+
+@hertasecurity ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9902888536453247}]"
+297397741,2018-03-27T08:00:36.000Z,"Report calls for creation of biometrics information watchdog
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9772685170173645}]"
+380800182,2018-03-27T07:35:25.000Z,3 Ways Retailers Can Use Facial Recognition To Create Better Experiences | CustomerThink |,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.976578950881958}]"
+1926620467,2018-03-27T07:25:39.000Z,Tired of long winded registration processes at Expos and conferences? This solution aims to simplify the process keeping your focus on the event at hand. Video: Expo Logic USA.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.947124183177948}]"
+1536562052,2018-03-27T07:22:10.000Z,"RT Ronald_vanLoon ""BetterTechniques Leave Passwords In The Dust
+by dannybradbury Forbes DellTech |
+
+Read more here: 
+
+… ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9970272183418274}]"
+555031989,2018-03-27T07:09:46.000Z,"BetterTechniques Leave Passwords In The Dust
+by @dannybradbury @Forbes @DellTech |
+
+Read more here: 
+
+
+
+cc: @citylab @smartcitiesdive ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9981595873832703}]"
+909682689887821824,2018-03-27T05:45:56.000Z," Will StartforFrom July 1. A positive step towards Aadhaar 
+
+NEXT NEWS:
+
+Reporters: Aadhaarcan be tricked using photographs
+UIDAI: These reports are false. Aadhaar is protected by 10 feet walls.
+
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8960033059120178}]"
+297397741,2018-03-27T05:00:27.000Z,"Criminals Using Web Injects to Steal
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9873019456863403}]"
+280282927,2018-03-27T02:49:27.000Z," used to bust fake IDs
+@trendwatching ",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9990596175193787}]"
+753277725452881920,2018-03-28T22:46:32.000Z,"@zerohedge ""the new facial recognition ""SkyNet"" will go hand in hand with China's new ""Social Credit Score"" system set to launch in 2020.""
+
+
+ 
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.627373993396759}]"
+2356982959,2018-03-28T21:59:05.000Z,Continued focus oncritical to foster growing public support for : FaceFirst CEO ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.997469425201416}]"
+518238327,2018-03-28T21:56:53.000Z,Continued focus oncritical to foster growing public support for : FaceFirst CEO ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.997469425201416}]"
+297054186,2018-03-28T21:21:27.000Z,"Fun facts from @RajaRajamannar's session :
+- includingwill authenticate your card
+-@Samsung's refrigerator can automatically tell when you are running out of milk
+-At a laundry mat you can book pay lock/unlock your machine all by phone",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7384658455848694}]"
+2610079512,2018-03-28T19:53:25.000Z,Well this is absolutely terrifying:technology can now text jaywalkers a fine,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9963250756263733}]"
+46241234,2018-03-28T19:24:43.000Z,"Christopher Dore of @edelsonpc says @facebook has the largest privatedatabase in theworld. ""I used to say 'except for the NSA'but I’m not sure about thatnow"" Dore said. ""That is scary as hell.""",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9235434532165527}]"
+20577720,2018-03-28T18:55:47.000Z,-stylesystem publicly shames jaywalkers in :,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9989399313926697}]"
+1684288934,2018-03-28T18:02:11.000Z,@UVALaw @togawamercer @lawfareblog Various versions oftechnology have been used inby the . It would be interesting to know what the perceived costs &amp; benefits are here. @VBPD @virginianpilot @CityofVaBeach,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9688210487365723}]"
+14269434,2018-03-28T17:19:17.000Z,"Open Source Biometric Recognition
+
+A communal biometrics framework supporting the development of open algorithms and reproducible evaluations.
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9949116110801697}]"
+4159048754,2018-03-28T16:35:10.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+851807887508873216,2018-03-28T15:22:02.000Z,Biometrics - the answer to fraud detection:,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.5435332655906677}]"
+1196984797,2018-03-28T15:16:03.000Z,"What to know about biometric security: 
+
+/via @ChannelwebNL",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9560269713401794}]"
+278335034,2018-03-28T15:01:02.000Z, usingandrecognition to fine jaywalkers via text.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9626757502555847}]"
+4891767710,2018-03-28T14:45:07.000Z,Police in Guiyang usetechnology to arrest more than 10 people for stealing mobile phones,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9675158262252808}]"
+721590650563461120,2018-03-28T14:01:38.000Z,"Facial recognition| One of the least invasive &amp; more generally accepted technology for Banking sector
+Read more: 
+
+@hertasecurity ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9787638187408447}]"
+862246149448581121,2018-03-28T11:18:32.000Z,"GlobalMarket is estimated to reach $15.4 billion by 2024; growing at a CAGR of 21.4% from 2016 to 2024.
+Download Free Sample Copy of Report @",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9650646448135376}]"
+795913618604728320,2018-03-28T09:00:01.000Z,Facial recognition technology can now text jaywalkers a fine,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9990419745445251}]"
+1080264307,2018-03-28T08:57:32.000Z,"How To Stop Facebook From Looking For You With Face Recognition - 
+thanks @SPINSouthWest",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.7871201634407043}]"
+67013771,2018-03-28T08:46:22.000Z,Swiss-based@keylemon got the attention ofsensor supplier AMS with its innovative 3Dsoftware ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.995235025882721}]"
+2204214774,2018-03-28T05:09:28.000Z,@elizabeth_joh So when you hear people like me and others talking abouthere’s a fucking example of what we’re talking about. No where is safe anymore ever. Think that’s a conspiracy theory? It’s happening and it’s going to get worse incrementally.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9997584223747253}]"
+855311276976635905,2018-03-28T04:36:42.000Z,YITU’sresearch scientist Dr. Wu Shuang @Footfish talked to @BiometricUpdate about how AI imaging technology is applied into different scenarios and its technical challenges and ethical issues.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9634352922439575}]"
+901164271446351873,2018-03-28T04:00:35.000Z,"Super insightful article about : ""the darker the skin the more errors arise — up to nearly 35 percent for images of darker skinned women...""| Brian Brackeen CEO offirm Kairos talks about this on our latest Credentialed episode. ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9959707856178284}]"
+68506521,2018-03-29T23:30:19.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+851807887508873216,2018-03-29T22:39:01.000Z,Inside the many benefits of biometrics:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9997127652168274}]"
+84163469,2018-03-29T21:31:58.000Z,Would you buy a car from a vending machine?I am curious to learn their pricing strategy/logic._Intelligence,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8905860185623169}]"
+15232595,2018-03-29T21:26:02.000Z,"Apple iPhone X “Pay with a Glance” 
+What a horrific “convenience chum” to further advance loss of privacy &amp; freedom",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9984655380249023}]"
+897619467705909248,2018-03-29T19:48:22.000Z,Testing of newsystem stunts coders. Read more about the dangers of biassystems:,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.97764652967453}]"
+4891894462,2018-03-29T17:54:00.000Z,HowAre Fighting Bias inSoftware,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9924101829528809}]"
+2848442307,2018-03-29T17:21:17.000Z,"China Cracks down On Jaywalkers With AI&amp; Automated Fines 
+""It's intimidation to make everyone afraid...""
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9964720010757446}]"
+2848442307,2018-03-29T17:13:11.000Z," deploys ''Can Compare 3 Billion Faces Per Second :It can also scan faces and compare them with its database of criminal suspects at large and all Chinese people can be compared in 1 second! 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.6821799874305725}]"
+129705390,2018-03-29T16:21:54.000Z,How Coders Are Fighting Bias inSoftwarevia @WIRED,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9956297874450684}]"
+15785718,2018-03-29T16:05:23.000Z,Your one-stop-location fortourneys results player analysis and examples of how our cutting-edgeand Enterprise Video Analytics technology is supporting the @LPGA.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9751258492469788}]"
+59285586,2018-03-29T16:04:10.000Z,"Researchers created a hat that fools
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.998670220375061}]"
+50010864,2018-03-29T15:21:42.000Z,A Seagatereveals the widely diverse ways the data storage leader makes great use of the data it stores – with– incl. detecting magnetic defects &amp; boosting their internal security with,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9809970855712891}]"
+702809823814029313,2018-03-29T14:39:07.000Z,"Applying AI to create facial recognition software.
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9729984402656555}]"
+248823569,2018-03-29T14:28:55.000Z,The southern Chinese city of Shenzhen is exploring a system where through the use of surveillance cameras and AI-basedjaywalkers get text messages notifying them of their violation and fining them as soon as they break the law. ,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.844192624092102}]"
+3317217437,2018-03-29T14:26:26.000Z,We’re heading into the Bank Holiday weekend with 12 @GLL_UK Better Gym sites now live with ouraccess control solution CleverAccess. Here’s Better Gym’sChurch Lane installation in progress using the @AxisIPVideo P3225 camera ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9974315762519836}]"
+1070563002,2018-03-29T14:25:09.000Z,Ifaren't the solution anymore what is?,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.997427761554718}]"
+388376060,2018-03-29T14:20:16.000Z,With so much conversation surrounding facial recognition software see how retailers can use the technology to create better customer experiences.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8986446857452393}]"
+307930856,2018-03-29T14:15:20.000Z, is usingandto fine jaywalkers via text,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8465739488601685}]"
+745270922551033856,2018-03-29T14:06:00.000Z,"How Coders Are Fighting Bias in Facial Recognition Software 
+ 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9924511313438416}]"
+24308398,2018-03-29T13:24:05.000Z,7-Eleven Expands Its Facial Recognition Tech,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9971951246261597}]"
+2711212681,2018-03-29T12:25:36.000Z,"HowAre Fighting
+
+in
+
+@tsimonite @WIRED",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9671507477760315}]"
+100560178,2018-03-29T12:20:43.000Z, to be named shamed and fined thanks to,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9992820620536804}]"
+1884513522,2018-03-29T12:20:24.000Z," to be named shamed and fined thanks to 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9992820620536804}]"
+3247691867,2018-03-29T10:53:50.000Z,"The latest headline-makingto experiment with tactics to better understand consumer behavior and mind-sets issoftware. 
+
+Discover thein .
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5026261210441589}]"
+833985337588322309,2018-03-29T10:21:03.000Z,Happy Easter from the Forecourt Eye team! Check out our linkedin page for all the latest updates on how Forecourt Eye can protect your business.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9993988275527954}]"
+152348706,2018-03-29T10:17:29.000Z,Happy Easter from the Facewatch Team. Follow our Linkedin page for all of the latest updates on how we can help your business,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9993921518325806}]"
+156894780,2018-03-29T10:11:48.000Z, Used To Fine Jaywalkers By Text Message,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6105085015296936}]"
+132232120,2018-03-29T09:52:01.000Z,China is usingandto fine jaywalkers via text ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9248431921005249}]"
+297397741,2018-03-29T05:30:05.000Z," preventionraises $53 million to expand its global footprint in the fraud detection and prevention market
+
+",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.926509439945221}]"
+2267964218,2018-03-29T02:14:02.000Z,"Just jaywalked? Check your mobile phone for a message from police.is usingandto fine jaywalkers via text.
+
+ via @SCMP_news ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9972533583641052}]"
+16543550,2018-03-29T02:12:57.000Z,"And we were worried about Facebook privacy!
+
+Sweet dreams. New world ahead 😏
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9890566468238831}]"
+289747838,2018-03-29T02:00:37.000Z, begins on the 11th April - swing by our booth to see ourand registration plate recognition platformsand our VPai Home smart security camera. Get your free ticket here:,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9805400967597961}]"
+2275228915,2018-03-29T01:39:01.000Z,Facial Recognition Used To Fine Jaywalkers By Text Message(one step closer to Minority Report; via @MediaPost),POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9951695799827576}]"
+718804592973053952,2018-03-30T23:00:46.000Z,How white engineers built racist code – and why it's dangerous for black peoplevia @guardian,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9959043860435486}]"
+34031107,2018-03-30T21:25:05.000Z,How coders are fighting bias in facial recognition software:,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9894953370094299}]"
+718804592973053952,2018-03-30T21:19:24.000Z,"“If you’re black you’re more likely to be subjected to this technology and the technology is more likely to be wrong....... That’s a hell of a combination.”
+ via @guardian",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9835171103477478}]"
+718804592973053952,2018-03-30T21:03:14.000Z,"Google was also implicated in afail after its Photos app algorithm automatically tagged two black people as ""gorillas"".
+
+To fix thisditched tagging for photos of gorillas and chimpanzees to make sure it never happened again.
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9991994500160217}]"
+155090409,2018-03-30T20:59:50.000Z, Sharing because I haven't seen @hypervisible's head spin completely around on its axis since yesterday: ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9761009812355042}]"
+2356982959,2018-03-30T19:24:38.000Z,Continued focus oncritical to foster growing public support for : FaceFirst CEO ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.997469425201416}]"
+2356982959,2018-03-30T19:24:37.000Z,Better understanding ofneeded for reasonable social dialogue says YITU Technologiesresearch scientist ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9509422779083252}]"
+518238327,2018-03-30T19:24:11.000Z,Continued focus oncritical to foster growing public support for : FaceFirst CEO ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.997469425201416}]"
+518238327,2018-03-30T19:21:53.000Z,Better understanding ofneeded for reasonable social dialogue says YITU Technologiesresearch scientist ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9509422779083252}]"
+2322723913,2018-03-30T18:22:02.000Z,HowAre Fighting Bias in,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.7400975227355957}]"
+4159048754,2018-03-30T18:20:13.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+91877471,2018-03-30T17:45:00.000Z,"// 1/5ref my posts (Recognition// UIDAI-AADHAAR / online / social / media). Facebook Data Abuse &amp;scandal &amp; PrivacyBreach 4 ads sponsored/profit- analytics it's quite significant.
+~ Prabeen Kumar Pati ",NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.6940772533416748}]"
+40318875,2018-03-30T16:50:13.000Z,China’s Face-Scanning Craze,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.7115156054496765}]"
+869205264007917568,2018-03-30T16:36:34.000Z,HelloRiders. @alpha1rides will introducein itsApp this April. This helps ensure your safety and peace of mind.Join us!within Lagos . @Stunner_Guy@lindaikeji @_alphawoman @Marrgarritah ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.999049723148346}]"
+3192476162,2018-03-30T16:25:01.000Z,Identify suspicious patrons or associates prior to potential losses with Biometrica'sAdvancedmodule! With AFR capture images &amp; compare them to pictures already in the Composite Intelligence Database:,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9985522627830505}]"
+15785718,2018-03-30T16:08:00.000Z,Want to provide a safe secure seamless and frictionless experience for air travelers? Look no further than NeoFace Express.Check out our latest blog about this the cutting edge integratedsolution.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.5647884607315063}]"
+4239957073,2018-03-30T15:49:26.000Z,If you jaywalk in Shenzhen Chinameans you'll walk away with a fine. @cm_geib for @futurism reports that violators will find their personal info displayed on a large LED screen above the intersection: ,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9175041317939758}]"
+803274031222886400,2018-03-30T15:32:04.000Z,If You Jaywalk inMeans You’ll Walk Away With A Fine,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9990776777267456}]"
+110962519,2018-03-30T15:30:26.000Z,7-Eleven expands itstechnology,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9992685914039612}]"
+303953556,2018-03-30T15:24:40.000Z,If You Jaywalk inMeans You'll Walk Away With A Fine - Futurism ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9799541234970093}]"
+80645440,2018-03-30T14:30:33.000Z,"How is SITA optimizing ? Find out from SITA Director of Innovation Sherry Stein in her live interview with @TheDanaBarrett at . Photo credit: Dana Barrett
+ ",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9827683568000793}]"
+721590650563461120,2018-03-30T14:01:02.000Z,“Facial recognition is a perfect complement to your existing surveillance system enhancing security and/or customer experience in real time.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9989996552467346}]"
+721590650563461120,2018-03-30T11:01:01.000Z,"How access controlled revolving doors can protect businesses from crime?
+Read more: 
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.989797830581665}]"
+859865666396016651,2018-03-30T10:04:06.000Z,"Anyone idea if we can specify the confidence when sending an API-request to @GCPcloudfor Face Detection? 
+It seems the Google API returns detected faces with confidence &gt;= 50% 
+Help appreciated :)
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9963908791542053}]"
+17496982,2018-03-30T09:00:21.000Z," is usingandto fine jaywalkers via text.   
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8271299600601196}]"
+297397741,2018-03-30T09:00:16.000Z,"Cyberattackers strike city of Atlanta
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9907386302947998}]"
+829913452449665024,2018-03-30T08:45:03.000Z,People wrongly identified as persons of interest to law enforcement ... China’s use of the technology could lead to a whole lot of people wrongly fined wrongly tagged as scofflaws and wrongly shamed on public media,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9991826415061951}]"
+20930176,2018-03-30T07:29:04.000Z,Society's Child:policing:usingto identify and fine jaywalkers ,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.6937441825866699}]"
+962009590882693120,2018-03-30T07:07:36.000Z,"A picture's worth a thousand words! 4x great grandfather-&gt;grandson
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9995941519737244}]"
+40318875,2018-03-30T07:00:48.000Z,China’s Face-Scanning Craze,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.7115156054496765}]"
+68433676,2018-03-30T06:38:41.000Z,HowAre Fightingin. The danger of bias inis drawing growing attention from both&amp;.,NEGATIVE,"[{'label': 'POSITIVE', 'score': 0.9571362137794495}]"
+297397741,2018-03-30T05:00:00.000Z,"Five Security Problems You Don’t Know You Should Be Worried About (and What You Can Do About Them)
+
+
+",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9924919009208679}]"
+106287256,2018-03-30T04:28:00.000Z,"The rise of artificial intelligence () is beginning to revolutionize technology in various industries and security is prominent among them.
+
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.999090313911438}]"
+26093954,2018-03-30T02:31:00.000Z, using+to ticket jaywalkers. Relatedly super-powerful AI algorithms are easily defeated by a skimask or ai-defeating glasses.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9996527433395386}]"
+3714971,2018-03-30T02:30:09.000Z,"""How Coders Are FightinginSoftware"" Congratulations to @alsoplouie portfolio company @gfycat for its.via @WIRED",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.5434772968292236}]"
+3235330676,2018-03-31T22:02:06.000Z,Subaru will use facial recognition technology to detect driver fatigue,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9931435585021973}]"
+250543278,2018-03-31T20:44:02.000Z,Anti-surveillance apparel hides face from facial recognition softwareInundate the algorithm with what it wants: love it,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9690659642219543}]"
+103012986,2018-03-31T16:01:17.000Z,After a successful trial in Los Angeles@AppleX and @lufthansa latest examples ofacceptance. What do you think?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9343397617340088}]"
+14229262,2018-03-31T15:15:14.000Z,Who says there isn’tat KFC VIa @2morrowknight: Apayment system? A @KFC in China now accepts your smile😄 as a payment option.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.991849422454834}]"
+967541386517020674,2018-03-31T13:59:13.000Z,If you suspect you may be targeted by store/business w/o you done any crime in the past this article may give you some clues aboutsecurity camera system which has been used in store/business.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9909336566925049}]"
+967541386517020674,2018-03-31T13:47:23.000Z,@ACLU @PrivacyMatters @futureofprivacytech itself may be great. But if data in the system has been submitted by untrained professionals from store/business incl. small business the GREATEST tech doesn't work &amp; createissues.,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9990605711936951}]"
+967541386517020674,2018-03-31T13:47:23.000Z,"@ACLU @PrivacyMatters @futureofprivacy If anyone is interested in understanding howsecurity system has been used at stores this article helps.But it's NOT TRUE ONLY ""known shoplifters and violent criminals"" were in the "".""",NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9981733560562134}]"
+296728882,2018-03-31T12:56:27.000Z,We can fix this problem once and for all with our AI face rec as seen on . And we can work in stores casinos and online from the same data. No self excluders would be able to place a bet.,NEGATIVE,"[{'label': 'NEGATIVE', 'score': 0.9986898303031921}]"
+344825939,2018-03-31T12:34:00.000Z,Astransforms the retail industry@7Eleven stores adopt,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9819111227989197}]"
+296728882,2018-03-31T12:18:48.000Z,When will police forces around the world stop buying record only body worn cameras to store petabytes of “just in case” video? It’s basically a data warehousing solution from the 1990s. Don’t first responders on the front line deserve better?,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9986806511878967}]"
+2586383233,2018-03-31T12:13:54.000Z,"In the near future can we expectfines for the crimes we have yet to commit?
+
+
+
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9817534685134888}]"
+923468514412740609,2018-03-31T11:03:07.000Z,"If you jaywalk in China facial recognition means you'll walk away with a fine
+
+
+ ",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9993485808372498}]"
+728215182284079108,2018-03-31T10:17:35.000Z,"iPhone X Facial Capture Test With Bebylon Character Cameo!
+
+Find your best AR/VR news at",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.8162062764167786}]"
+225535781,2018-03-31T08:44:23.000Z,"Why residents of Shenzhen China don’t dare jaywalk.
+
+ tech - part of vast surveillance machine built by government (will feed into 'national social credit rating system')!! 
+
+Many questions come to mind!
+
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9009290337562561}]"
+758575239101952000,2018-03-31T07:57:24.000Z,We are at the Cambodian Children's Fund showcasing the world of Augmented Reality to Grade 5 &amp; 6s today! A Sony android phone was presented to the winner of our App Inventor Hackathon too held last December. Well done to our winner!,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9979079961776733}]"
+4265079854,2018-03-31T07:06:26.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+4265079854,2018-03-31T07:00:43.000Z,In healthcareand token authentication are good uses ofwrites expert BrienPosey:,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9758077263832092}]"
+82351237,2018-03-31T06:19:28.000Z,[China]Building a World Where Algorithms Know Your Facevia @DesignNewsused at ATM no code ut your face allows you to withdraw money. Technology also used for security,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.9834861755371094}]"
+84163469,2018-03-31T05:13:02.000Z,Despite slowing down in ecommerce growth Walmart is still a formidable player with great potential to leap far ahead any moment.,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9996683597564697}]"
+47848447,2018-03-31T04:30:06.000Z,"How artificial intelligence (AI) is radically re-shaping the future of travel
+",POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9590211510658264}]"
+3116811179,2018-03-31T02:14:14.000Z," beginsboarding atfor a secure and seamless passenger experience
+LAX trial boarded ~350 passengers onto an A380 in ~20 minutes
+
+",POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.644461989402771}]"
+18021726,2018-03-31T01:42:51.000Z,Facebook just notified me they added facial recognition - OF COURSE they have a default setting ON so if you don't notice they are doing it you are automatically exposed. I turned mine to OFF on general principles. Word to Wise,POSITIVE,"[{'label': 'NEGATIVE', 'score': 0.8496342301368713}]"
+907098908458835969,2018-03-31T01:06:17.000Z, tracks jaywalkers in Shenzhen. In 10 months to February this year as many as 13930 jaywalkers were recorded &amp; displayed on a LED screen at busy intersection in Futian district. Next step is instant fine via social media ,POSITIVE,"[{'label': 'POSITIVE', 'score': 0.9948546886444092}]"
