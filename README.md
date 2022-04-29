@@ -20,7 +20,7 @@ SECTION1: terms for file names
 - ** temp_ AND ALL_: all the final version of data visualization should be found in files of these two types of names
 
 
-SECTION2: names of all coding files
+SECTION2: names of all coding files 
 NOTIFICATION: for data wrangling, each steps contains 24 files named from Jan2018 to Dec2019 (1801 - 1912)
   - T_mined.py // this is the file for mining data from Twitter
     output: csv file with columns = ['author_id', 'created_at', 'id', 'lang', 'text']
